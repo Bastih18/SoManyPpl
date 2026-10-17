@@ -2163,3 +2163,4 @@
 - claude (@claude)
 - claude-code-best (@claude-code-best)
 - clawsweeper (@clawsweeper)
+- clayw (@clayw)
