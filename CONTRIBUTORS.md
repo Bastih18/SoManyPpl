@@ -202,3 +202,4 @@
 - BinSquare (@BinSquare)
 - BiocondaBot (@BiocondaBot)
 - BionStt (@BionStt)
+- BiswaViraj (@BiswaViraj)
