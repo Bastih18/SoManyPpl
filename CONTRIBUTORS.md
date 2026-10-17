@@ -3409,3 +3409,4 @@
 - josephcarmello (@josephcarmello)
 - josephcrowell (@josephcrowell)
 - joserodolfofreitas (@joserodolfofreitas)
+- josevalim (@josevalim)
