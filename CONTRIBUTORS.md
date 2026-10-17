@@ -2275,3 +2275,4 @@
 - curita (@curita)
 - cursoemvideo (@cursoemvideo)
 - cursor (@cursor)
+- cursoragent (@cursoragent)
