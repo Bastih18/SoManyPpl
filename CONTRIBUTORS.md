@@ -578,3 +578,4 @@
 - HugoSpy (@HugoSpy)
 - Huibean (@Huibean)
 - HunterNyan (@HunterNyan)
+- Hurtak (@Hurtak)
