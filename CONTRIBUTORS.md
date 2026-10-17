@@ -3073,3 +3073,4 @@
 - home-assistant (@home-assistant)
 - homfarnam (@homfarnam)
 - hongyangAndroid (@hongyangAndroid)
+- hooperbenjamin7833 (@hooperbenjamin7833)
