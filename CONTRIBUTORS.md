@@ -2807,3 +2807,4 @@
 - gabe-l-hart (@gabe-l-hart)
 - gabedos (@gabedos)
 - gabrielcastr0 (@gabrielcastr0)
+- gabrielgomesferraz (@gabrielgomesferraz)
