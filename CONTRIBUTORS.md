@@ -951,3 +951,4 @@
 - Nirzak (@Nirzak)
 - NixOS (@NixOS)
 - Njinx (@Njinx)
+- Nnachevvv (@Nnachevvv)
