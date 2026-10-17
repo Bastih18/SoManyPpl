@@ -1632,3 +1632,4 @@
 - all-hands-bot (@all-hands-bot)
 - allanclempe (@allanclempe)
 - allenzhou101 (@allenzhou101)
+- allozaur (@allozaur)
