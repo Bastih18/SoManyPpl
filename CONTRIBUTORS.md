@@ -5598,3 +5598,4 @@
 - vasewasp0 (@vasewasp0)
 - vasqu (@vasqu)
 - vassilis-papanikolaou (@vassilis-papanikolaou)
+- vbarbosadev (@vbarbosadev)
