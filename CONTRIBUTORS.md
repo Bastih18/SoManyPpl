@@ -2684,3 +2684,4 @@
 - fabriziocucci (@fabriziocucci)
 - fabxoe (@fabxoe)
 - facebook (@facebook)
+- facebookresearch (@facebookresearch)
