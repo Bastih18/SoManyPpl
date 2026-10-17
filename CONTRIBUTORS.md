@@ -3408,3 +3408,4 @@
 - josejairobaltazargallegos29-a11y (@josejairobaltazargallegos29-a11y)
 - josephcarmello (@josephcarmello)
 - josephcrowell (@josephcrowell)
+- joserodolfofreitas (@joserodolfofreitas)
