@@ -5636,3 +5636,4 @@
 - virgil-at-biocompute (@virgil-at-biocompute)
 - vishr (@vishr)
 - vitkyrka (@vitkyrka)
+- vitormattos (@vitormattos)
