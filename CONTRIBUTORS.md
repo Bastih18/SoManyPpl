@@ -1954,3 +1954,4 @@
 - blueberrycongee (@blueberrycongee)
 - bluelovers (@bluelovers)
 - bluesky-social (@bluesky-social)
+- bluetata (@bluetata)
