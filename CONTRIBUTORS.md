@@ -3660,3 +3660,4 @@
 - kurhula (@kurhula)
 - kurokobo (@kurokobo)
 - kurquhar (@kurquhar)
+- kvadrik (@kvadrik)
