@@ -2494,3 +2494,4 @@
 - dnhatn (@dnhatn)
 - docker (@docker)
 - dogauzun (@dogauzun)
+- doka-guide (@doka-guide)
