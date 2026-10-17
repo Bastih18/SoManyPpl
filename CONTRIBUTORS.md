@@ -653,3 +653,4 @@
 - JetBrains (@JetBrains)
 - JetRunner (@JetRunner)
 - JichouP (@JichouP)
+- Jingyi-Dify (@Jingyi-Dify)
