@@ -3691,3 +3691,4 @@
 - larrylv (@larrylv)
 - laruence (@laruence)
 - lattner (@lattner)
+- lauppv (@lauppv)
