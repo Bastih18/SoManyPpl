@@ -3901,3 +3901,4 @@
 - manni (@manni)
 - manoharreddyporeddy (@manoharreddyporeddy)
 - mansoorambalappara-sys (@mansoorambalappara-sys)
+- manueldeprada (@manueldeprada)
