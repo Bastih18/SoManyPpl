@@ -3378,3 +3378,4 @@
 - joaoventuri (@joaoventuri)
 - jodylecompte (@jodylecompte)
 - joebertcerezo (@joebertcerezo)
+- joeddav (@joeddav)
