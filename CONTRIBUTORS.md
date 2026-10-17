@@ -4780,3 +4780,4 @@
 - rhiever (@rhiever)
 - ribeirojose (@ribeirojose)
 - ricardocacco (@ricardocacco)
+- ricdevz (@ricdevz)
