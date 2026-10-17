@@ -3679,3 +3679,4 @@
 - lambertae (@lambertae)
 - lancedesk (@lancedesk)
 - langchain-ai (@langchain-ai)
+- lantudou (@lantudou)
