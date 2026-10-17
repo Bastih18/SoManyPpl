@@ -4075,3 +4075,4 @@
 - microsoft (@microsoft)
 - microsoftopensource (@microsoftopensource)
 - midichef (@midichef)
+- midudev (@midudev)
