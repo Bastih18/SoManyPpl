@@ -64,3 +64,4 @@
 - AUTOMATIC1111 (@AUTOMATIC1111)
 - AZURE-HUAI (@AZURE-HUAI)
 - AbdeenM (@AbdeenM)
+- Abdennacer-Badaoui (@Abdennacer-Badaoui)
