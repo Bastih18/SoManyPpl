@@ -2962,3 +2962,4 @@
 - hai-cea (@hai-cea)
 - hai046 (@hai046)
 - haileys (@haileys)
+- hainji60-byte (@hainji60-byte)
