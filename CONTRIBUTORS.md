@@ -5023,3 +5023,4 @@
 - scrutinizer-auto-fixer (@scrutinizer-auto-fixer)
 - sdispater (@sdispater)
 - sdras (@sdras)
+- sdtm1016 (@sdtm1016)
