@@ -1612,3 +1612,4 @@
 - alexmorbo (@alexmorbo)
 - alexspracheundwissen (@alexspracheundwissen)
 - alexsyntonize (@alexsyntonize)
+- alexxy (@alexxy)
