@@ -108,3 +108,4 @@
 - AllainWoodsford (@AllainWoodsford)
 - AllenDowney (@AllenDowney)
 - Allwell987 (@Allwell987)
+- AmauriOliveira (@AmauriOliveira)
