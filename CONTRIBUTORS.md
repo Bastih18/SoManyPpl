@@ -2787,3 +2787,4 @@
 - frontend-joe (@frontend-joe)
 - frontendbr (@frontendbr)
 - frontsideair (@frontsideair)
+- frosencrantz (@frosencrantz)
