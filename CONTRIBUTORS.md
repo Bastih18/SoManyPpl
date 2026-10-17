@@ -433,3 +433,4 @@
 - EssayKillerBrain (@EssayKillerBrain)
 - EttusResearch (@EttusResearch)
 - EugenioBuffo (@EugenioBuffo)
+- EurekaLabsAI (@EurekaLabsAI)
