@@ -5094,3 +5094,4 @@
 - shicks (@shicks)
 - shiffman (@shiffman)
 - shiftkey (@shiftkey)
+- shihyuho (@shihyuho)
