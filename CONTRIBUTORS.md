@@ -289,3 +289,4 @@
 - ClanEver (@ClanEver)
 - ClaraTersi (@ClaraTersi)
 - ClashSAN (@ClashSAN)
+- ClassicOldSong (@ClassicOldSong)
