@@ -5215,3 +5215,4 @@
 - spf13 (@spf13)
 - spikat (@spikat)
 - spinscale (@spinscale)
+- sposs (@sposs)
