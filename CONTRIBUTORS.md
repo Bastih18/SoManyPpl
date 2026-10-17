@@ -2646,3 +2646,4 @@
 - esokullu (@esokullu)
 - esparta (@esparta)
 - esphbot (@esphbot)
+- espressif (@espressif)
