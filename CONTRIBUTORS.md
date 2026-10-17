@@ -1178,3 +1178,4 @@
 - Shimada666 (@Shimada666)
 - ShiroKSH (@ShiroKSH)
 - Shondoit (@Shondoit)
+- Shopify (@Shopify)
