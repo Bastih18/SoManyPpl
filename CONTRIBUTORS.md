@@ -382,3 +382,4 @@
 - DoyuTu (@DoyuTu)
 - DrSeedon (@DrSeedon)
 - DragonStuff (@DragonStuff)
+- Drakulix (@Drakulix)
