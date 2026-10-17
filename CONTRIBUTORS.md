@@ -4341,3 +4341,4 @@
 - nicolargo (@nicolargo)
 - nicolasdmolina (@nicolasdmolina)
 - nielsbauman (@nielsbauman)
+- nihui (@nihui)
