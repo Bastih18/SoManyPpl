@@ -1546,3 +1546,4 @@
 - ahopemmoeri-wfs (@ahopemmoeri-wfs)
 - ai (@ai)
 - ai-camo (@ai-camo)
+- ai-hpc (@ai-hpc)
