@@ -756,3 +756,4 @@
 - Lightning-AI (@Lightning-AI)
 - LinFor (@LinFor)
 - LinShunKang (@LinShunKang)
+- LineageOS (@LineageOS)
