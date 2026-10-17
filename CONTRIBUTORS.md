@@ -3044,3 +3044,4 @@
 - hippyaki (@hippyaki)
 - hiproz (@hiproz)
 - hipudding (@hipudding)
+- hiscodesmells (@hiscodesmells)
