@@ -2189,3 +2189,4 @@
 - code-factor (@code-factor)
 - code50 (@code50)
 - codebasics (@codebasics)
+- codeclown (@codeclown)
