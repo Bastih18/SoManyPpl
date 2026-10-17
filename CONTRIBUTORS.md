@@ -3680,3 +3680,4 @@
 - lancedesk (@lancedesk)
 - langchain-ai (@langchain-ai)
 - lantudou (@lantudou)
+- lanuma (@lanuma)
