@@ -5611,3 +5611,4 @@
 - vera-rubin (@vera-rubin)
 - vercel (@vercel)
 - vercel-labs (@vercel-labs)
+- verkyyi (@verkyyi)
