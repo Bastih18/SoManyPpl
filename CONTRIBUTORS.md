@@ -1245,3 +1245,4 @@
 - Takeno-hito (@Takeno-hito)
 - Takhoffman (@Takhoffman)
 - Talchain (@Talchain)
+- TanStack (@TanStack)
