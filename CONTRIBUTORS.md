@@ -478,3 +478,4 @@
 - FrictionalGames (@FrictionalGames)
 - FuelLabs (@FuelLabs)
 - Fuelet (@Fuelet)
+- FujishigeTemma (@FujishigeTemma)
