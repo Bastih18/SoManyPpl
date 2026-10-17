@@ -1719,3 +1719,4 @@
 - anthdm (@anthdm)
 - anthonygauthier (@anthonygauthier)
 - anthonyonazure (@anthonyonazure)
+- anthonypotero (@anthonypotero)
