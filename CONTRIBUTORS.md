@@ -1078,3 +1078,4 @@
 - Rajatkhatri7 (@Rajatkhatri7)
 - ReVanced (@ReVanced)
 - ReadmeCritic (@ReadmeCritic)
+- Reifircax (@Reifircax)
