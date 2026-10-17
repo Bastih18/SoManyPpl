@@ -1527,3 +1527,4 @@
 - afrieirham (@afrieirham)
 - afurm (@afurm)
 - agamrafaeli (@agamrafaeli)
+- agentscope-ai-java (@agentscope-ai-java)
