@@ -1721,3 +1721,4 @@
 - anthonyonazure (@anthonyonazure)
 - anthonypotero (@anthonypotero)
 - anthropics (@anthropics)
+- antirez (@antirez)
