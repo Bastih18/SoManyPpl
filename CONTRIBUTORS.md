@@ -4767,3 +4767,4 @@
 - renowncoder (@renowncoder)
 - renzifeng (@renzifeng)
 - replicate (@replicate)
+- resemble-ai (@resemble-ai)
