@@ -2958,3 +2958,4 @@
 - hackingthemarkets (@hackingthemarkets)
 - hacs (@hacs)
 - hadi-today (@hadi-today)
+- hadley (@hadley)
