@@ -1005,3 +1005,4 @@
 - POPK406 (@POPK406)
 - POPPIN-FUMI (@POPPIN-FUMI)
 - PacktPublishing (@PacktPublishing)
+- PaddlePaddle (@PaddlePaddle)
