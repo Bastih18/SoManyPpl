@@ -2509,3 +2509,4 @@
 - douglascrockford (@douglascrockford)
 - dougweibel (@dougweibel)
 - dougyau (@dougyau)
+- douxc (@douxc)
