@@ -4384,3 +4384,4 @@
 - noritaka1166 (@noritaka1166)
 - norman-ipn (@norman-ipn)
 - norrisjason002 (@norrisjason002)
+- norvig (@norvig)
