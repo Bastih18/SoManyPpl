@@ -3455,3 +3455,4 @@
 - jsvine (@jsvine)
 - jsynowiec (@jsynowiec)
 - jtangelder (@jtangelder)
+- jthorare (@jthorare)
