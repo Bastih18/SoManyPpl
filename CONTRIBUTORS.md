@@ -2460,3 +2460,4 @@
 - diegokoes (@diegokoes)
 - dieharders (@dieharders)
 - diffwireauto (@diffwireauto)
+- digital-joe-co (@digital-joe-co)
