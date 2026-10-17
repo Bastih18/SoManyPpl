@@ -924,3 +924,4 @@
 - NarekDW (@NarekDW)
 - Narsil (@Narsil)
 - Natealus (@Natealus)
+- NathanLovato (@NathanLovato)
