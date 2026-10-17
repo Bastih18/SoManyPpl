@@ -848,3 +848,4 @@
 - MenachemZeivald (@MenachemZeivald)
 - MercuryTechnologies (@MercuryTechnologies)
 - MetaCubeX (@MetaCubeX)
+- MetaMask (@MetaMask)
