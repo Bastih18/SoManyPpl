@@ -4180,3 +4180,4 @@
 - mouredev (@mouredev)
 - mourner (@mourner)
 - moxie0 (@moxie0)
+- mozilla (@mozilla)
