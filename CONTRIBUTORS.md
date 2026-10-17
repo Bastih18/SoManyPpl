@@ -2420,3 +2420,4 @@
 - dennisivy (@dennisivy)
 - dennybritz (@dennybritz)
 - denoland (@denoland)
+- denschiro (@denschiro)
