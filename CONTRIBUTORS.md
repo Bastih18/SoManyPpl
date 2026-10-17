@@ -3540,3 +3540,4 @@
 - keijiro (@keijiro)
 - keith-packard (@keith-packard)
 - keji-sketch (@keji-sketch)
+- kelseyhightower (@kelseyhightower)
