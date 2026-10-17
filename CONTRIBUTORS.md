@@ -2959,3 +2959,4 @@
 - hacs (@hacs)
 - hadi-today (@hadi-today)
 - hadley (@hadley)
+- hai-cea (@hai-cea)
