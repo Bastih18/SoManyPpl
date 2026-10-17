@@ -4407,3 +4407,4 @@
 - nullmoth (@nullmoth)
 - nullptrException100 (@nullptrException100)
 - nulqwy (@nulqwy)
+- nunomaduro (@nunomaduro)
