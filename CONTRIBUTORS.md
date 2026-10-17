@@ -2278,3 +2278,4 @@
 - cursoragent (@cursoragent)
 - cushon (@cushon)
 - cusspvz (@cusspvz)
+- cvictory (@cvictory)
