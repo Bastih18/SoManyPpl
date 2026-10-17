@@ -1610,3 +1610,4 @@
 - alexharri (@alexharri)
 - alexlenk (@alexlenk)
 - alexmorbo (@alexmorbo)
+- alexspracheundwissen (@alexspracheundwissen)
