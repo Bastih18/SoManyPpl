@@ -2274,3 +2274,4 @@
 - curiousbanana585 (@curiousbanana585)
 - curita (@curita)
 - cursoemvideo (@cursoemvideo)
+- cursor (@cursor)
