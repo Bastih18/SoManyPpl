@@ -2371,3 +2371,4 @@
 - davidfue (@davidfue)
 - davidgilbertson (@davidgilbertson)
 - davidkyle (@davidkyle)
+- davidnewhall (@davidnewhall)
