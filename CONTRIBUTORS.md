@@ -1203,3 +1203,4 @@
 - Solvely-Colin (@Solvely-Colin)
 - SomSamantray (@SomSamantray)
 - SomeoneSerge (@SomeoneSerge)
+- Sonicfox94ys (@Sonicfox94ys)
