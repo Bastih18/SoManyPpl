@@ -175,3 +175,4 @@
 - BTeodor (@BTeodor)
 - BYVoid (@BYVoid)
 - Badgeiushadow (@Badgeiushadow)
+- BadlyAddicted (@BadlyAddicted)
