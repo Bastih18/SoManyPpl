@@ -4193,3 +4193,4 @@
 - mr-ubik (@mr-ubik)
 - mrafayaleem (@mrafayaleem)
 - mrdbourke (@mrdbourke)
+- mrdoob (@mrdoob)
