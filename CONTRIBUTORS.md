@@ -1356,3 +1356,4 @@
 - Victrid (@Victrid)
 - ViniViniAntunes (@ViniViniAntunes)
 - Vinv-AI (@Vinv-AI)
+- Visual-Studio-Code (@Visual-Studio-Code)
