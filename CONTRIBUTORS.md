@@ -2409,3 +2409,4 @@
 - deepseek-ai (@deepseek-ai)
 - deeso (@deeso)
 - deftomat (@deftomat)
+- defunes43 (@defunes43)
