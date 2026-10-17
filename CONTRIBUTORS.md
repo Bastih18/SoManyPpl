@@ -5620,3 +5620,4 @@
 - vicasas (@vicasas)
 - vickenty (@vickenty)
 - vickey-kapoor (@vickey-kapoor)
+- vid-pas (@vid-pas)
