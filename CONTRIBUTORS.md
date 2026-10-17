@@ -774,3 +774,4 @@
 - Lucas-png-bit (@Lucas-png-bit)
 - LucasAck3rmann (@LucasAck3rmann)
 - LucasLeungKoi (@LucasLeungKoi)
+- LucasMagnum (@LucasMagnum)
