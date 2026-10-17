@@ -1807,3 +1807,4 @@
 - astaxie (@astaxie)
 - astefan (@astefan)
 - astral-sh (@astral-sh)
+- asukaminato0721 (@asukaminato0721)
