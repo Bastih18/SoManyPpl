@@ -5553,3 +5553,4 @@
 - ukozi (@ukozi)
 - ultralytics (@ultralytics)
 - um788030-arch (@um788030-arch)
+- umaircric (@umaircric)
