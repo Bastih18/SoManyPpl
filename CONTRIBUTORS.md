@@ -2926,3 +2926,4 @@
 - gschier (@gschier)
 - gtudan (@gtudan)
 - guaneec (@guaneec)
+- guarin (@guarin)
