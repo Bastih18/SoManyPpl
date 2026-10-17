@@ -106,3 +106,4 @@
 - Alir3z4 (@Alir3z4)
 - Alix-007 (@Alix-007)
 - AllainWoodsford (@AllainWoodsford)
+- AllenDowney (@AllenDowney)
