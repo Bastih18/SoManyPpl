@@ -5075,3 +5075,4 @@
 - shaneholloman (@shaneholloman)
 - shanemort1982 (@shanemort1982)
 - shangkaul (@shangkaul)
+- shanselman (@shanselman)
