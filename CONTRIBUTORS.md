@@ -2425,3 +2425,4 @@
 - derekeder (@derekeder)
 - derekwbrown (@derekwbrown)
 - dergachoff (@dergachoff)
+- dericcain (@dericcain)
