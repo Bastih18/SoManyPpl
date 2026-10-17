@@ -4425,3 +4425,4 @@
 - odoo (@odoo)
 - ofTheo (@ofTheo)
 - ofek (@ofek)
+- offensive-security (@offensive-security)
