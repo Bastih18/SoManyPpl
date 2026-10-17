@@ -4874,3 +4874,4 @@
 - rs-choices (@rs-choices)
 - rsalmei (@rsalmei)
 - rsamuelklatchko (@rsamuelklatchko)
+- rsc (@rsc)
