@@ -672,3 +672,4 @@
 - Jongtae (@Jongtae)
 - JordanSchuetz (@JordanSchuetz)
 - JoseDeFreitas (@JoseDeFreitas)
+- JoseRFJuniorLLMs (@JoseRFJuniorLLMs)
