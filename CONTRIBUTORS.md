@@ -3143,3 +3143,4 @@
 - ibrakhaiveet-sudo (@ibrakhaiveet-sudo)
 - icankeep (@icankeep)
 - iccowan (@iccowan)
+- iced-rs (@iced-rs)
