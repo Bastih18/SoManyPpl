@@ -3425,3 +3425,4 @@
 - joshwcomeau (@joshwcomeau)
 - joshwooding (@joshwooding)
 - josiahdc (@josiahdc)
+- josselex (@josselex)
