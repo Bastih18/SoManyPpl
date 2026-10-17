@@ -1937,3 +1937,4 @@
 - bitdeli-chef (@bitdeli-chef)
 - bitwarden (@bitwarden)
 - biyuhao (@biyuhao)
+- bizz84 (@bizz84)
