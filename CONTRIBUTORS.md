@@ -3045,3 +3045,4 @@
 - hiproz (@hiproz)
 - hipudding (@hipudding)
 - hiscodesmells (@hiscodesmells)
+- historicalsource (@historicalsource)
