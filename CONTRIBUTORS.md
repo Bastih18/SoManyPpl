@@ -5668,3 +5668,4 @@
 - w3c (@w3c)
 - w3cj (@w3cj)
 - waldyrious (@waldyrious)
+- waleedlatif1 (@waleedlatif1)
