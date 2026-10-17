@@ -1179,3 +1179,4 @@
 - ShiroKSH (@ShiroKSH)
 - Shondoit (@Shondoit)
 - Shopify (@Shopify)
+- ShotaHikokubo (@ShotaHikokubo)
