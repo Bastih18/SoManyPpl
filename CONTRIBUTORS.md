@@ -5236,3 +5236,4 @@
 - stalequant (@stalequant)
 - staltz (@staltz)
 - stalwartlabs (@stalwartlabs)
+- stancld (@stancld)
