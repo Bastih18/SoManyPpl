@@ -3820,3 +3820,4 @@
 - lowjiansheng (@lowjiansheng)
 - loyinglin (@loyinglin)
 - lpalmes (@lpalmes)
+- lpizzinidev (@lpizzinidev)
