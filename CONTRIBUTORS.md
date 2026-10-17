@@ -4321,3 +4321,4 @@
 - nextcloud (@nextcloud)
 - nextcloud-bot (@nextcloud-bot)
 - nexton-winjeel (@nexton-winjeel)
+- nftstorage (@nftstorage)
