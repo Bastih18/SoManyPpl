@@ -5657,3 +5657,4 @@
 - vtdz4tie7k (@vtdz4tie7k)
 - vtnorton (@vtnorton)
 - vuejs (@vuejs)
+- vueuse (@vueuse)
