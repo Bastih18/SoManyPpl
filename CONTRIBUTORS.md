@@ -2681,3 +2681,4 @@
 - fabiorino (@fabiorino)
 - fabpot (@fabpot)
 - fabriciojoc (@fabriciojoc)
+- fabriziocucci (@fabriziocucci)
