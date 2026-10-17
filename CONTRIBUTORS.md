@@ -1504,3 +1504,4 @@
 - addyosmani (@addyosmani)
 - adeelibr (@adeelibr)
 - adel121 (@adel121)
+- adi90x (@adi90x)
