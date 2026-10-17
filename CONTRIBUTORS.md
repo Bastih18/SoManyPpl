@@ -3982,3 +3982,4 @@
 - maurogp12 (@maurogp12)
 - mavericksea-ai (@mavericksea-ai)
 - maverikou (@maverikou)
+- max-krasnyansky (@max-krasnyansky)
