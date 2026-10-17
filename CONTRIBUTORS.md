@@ -5078,3 +5078,4 @@
 - shanselman (@shanselman)
 - shaofeiqi (@shaofeiqi)
 - sharifitabar (@sharifitabar)
+- sharkdp (@sharkdp)
