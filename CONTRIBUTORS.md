@@ -5237,3 +5237,4 @@
 - staltz (@staltz)
 - stalwartlabs (@stalwartlabs)
 - stancld (@stancld)
+- standardgalactic (@standardgalactic)
