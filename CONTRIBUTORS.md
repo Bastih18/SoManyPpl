@@ -5141,3 +5141,4 @@
 - sincof (@sincof)
 - sindresorhus (@sindresorhus)
 - sinejespersen (@sinejespersen)
+- singwhatiwanna (@singwhatiwanna)
