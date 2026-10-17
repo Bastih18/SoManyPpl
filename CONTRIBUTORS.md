@@ -2891,3 +2891,4 @@
 - golift-bot (@golift-bot)
 - gonztirado (@gonztirado)
 - goodatdrowning (@goodatdrowning)
+- goodfeli (@goodfeli)
