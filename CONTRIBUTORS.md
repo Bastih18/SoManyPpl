@@ -2418,3 +2418,4 @@
 - dendisuhubdy (@dendisuhubdy)
 - dennisangemi (@dennisangemi)
 - dennisivy (@dennisivy)
+- dennybritz (@dennybritz)
