@@ -3974,3 +3974,4 @@
 - mattpic-ant (@mattpic-ant)
 - mattpocock (@mattpocock)
 - mattt (@mattt)
+- matttproud (@matttproud)
