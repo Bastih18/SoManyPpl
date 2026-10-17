@@ -2955,3 +2955,4 @@
 - h7bg6jn9wm-bit (@h7bg6jn9wm-bit)
 - haakon-e (@haakon-e)
 - hackedteam (@hackedteam)
+- hackingthemarkets (@hackingthemarkets)
