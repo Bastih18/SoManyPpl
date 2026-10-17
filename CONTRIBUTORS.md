@@ -3903,3 +3903,4 @@
 - mansoorambalappara-sys (@mansoorambalappara-sys)
 - manueldeprada (@manueldeprada)
 - maoyiz (@maoyiz)
+- mapache-salvaje (@mapache-salvaje)
