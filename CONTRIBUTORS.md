@@ -4330,3 +4330,4 @@
 - nhajidin (@nhajidin)
 - nhoizey (@nhoizey)
 - ni (@ni)
+- nicklockwood (@nicklockwood)
