@@ -2659,3 +2659,4 @@
 - evanclan (@evanclan)
 - evancz (@evancz)
 - evanlabs (@evanlabs)
+- evann-pommier (@evann-pommier)
