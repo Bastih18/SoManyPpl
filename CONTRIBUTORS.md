@@ -638,3 +638,4 @@
 - Janpot (@Janpot)
 - Jarlotee (@Jarlotee)
 - JarnoRFB (@JarnoRFB)
+- Jarred-Sumner (@Jarred-Sumner)
