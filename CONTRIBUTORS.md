@@ -5323,3 +5323,4 @@
 - tabrindle (@tabrindle)
 - tachiyomiorg (@tachiyomiorg)
 - tadeegan (@tadeegan)
+- taikoxyz (@taikoxyz)
