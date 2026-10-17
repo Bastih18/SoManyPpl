@@ -2534,3 +2534,4 @@
 - dtbinh (@dtbinh)
 - dtlnor (@dtlnor)
 - dtolnay (@dtolnay)
+- dufferzafar (@dufferzafar)
