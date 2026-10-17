@@ -5169,3 +5169,4 @@
 - slepyzai (@slepyzai)
 - slievrly (@slievrly)
 - slowbro (@slowbro)
+- smalyshev (@smalyshev)
