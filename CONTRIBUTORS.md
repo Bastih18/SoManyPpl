@@ -3152,3 +3152,4 @@
 - idegtiarenko (@idegtiarenko)
 - idimetrix (@idimetrix)
 - idkwim (@idkwim)
+- ifitzpatrick (@ifitzpatrick)
