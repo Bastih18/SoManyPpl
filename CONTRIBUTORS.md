@@ -225,3 +225,4 @@
 - Bossbaby0313 (@Bossbaby0313)
 - Breakend (@Breakend)
 - BrendanEich (@BrendanEich)
+- Bricks-Man (@Bricks-Man)
