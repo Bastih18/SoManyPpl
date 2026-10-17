@@ -809,3 +809,4 @@
 - MaikStohn (@MaikStohn)
 - Mairuis (@Mairuis)
 - Makeblock-official (@Makeblock-official)
+- MalumaDev (@MalumaDev)
