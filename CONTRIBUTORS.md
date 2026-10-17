@@ -2313,3 +2313,4 @@
 - dandv (@dandv)
 - daneden (@daneden)
 - danengerer-sudo (@danengerer-sudo)
+- danhermann (@danhermann)
