@@ -292,3 +292,4 @@
 - ClassicOldSong (@ClassicOldSong)
 - ClaudioTessaro (@ClaudioTessaro)
 - CleanCut (@CleanCut)
+- CleverProgrammer (@CleverProgrammer)
