@@ -946,3 +946,4 @@
 - NikTh (@NikTh)
 - NikonFlex (@NikonFlex)
 - NinjaOfNeurons (@NinjaOfNeurons)
+- NirDiamant (@NirDiamant)
