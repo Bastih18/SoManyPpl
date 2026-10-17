@@ -580,3 +580,4 @@
 - HunterNyan (@HunterNyan)
 - Hurtak (@Hurtak)
 - Huxpro (@Huxpro)
+- Hwurzburg (@Hwurzburg)
