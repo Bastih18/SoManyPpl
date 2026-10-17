@@ -1883,3 +1883,4 @@
 - batvbs (@batvbs)
 - bbhunter (@bbhunter)
 - bbondy (@bbondy)
+- bbzourzour-droid (@bbzourzour-droid)
