@@ -1353,3 +1353,4 @@
 - VictorAvelar (@VictorAvelar)
 - VictorSanh (@VictorSanh)
 - VictorTaelin (@VictorTaelin)
+- Victrid (@Victrid)
