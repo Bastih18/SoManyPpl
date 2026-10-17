@@ -1717,3 +1717,4 @@
 - ant-andi (@ant-andi)
 - antfu (@antfu)
 - anthdm (@anthdm)
+- anthonygauthier (@anthonygauthier)
