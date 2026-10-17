@@ -667,3 +667,4 @@
 - JohnMwendwa (@JohnMwendwa)
 - JohnSundell (@JohnSundell)
 - Johnkayode (@Johnkayode)
+- Johse (@Johse)
