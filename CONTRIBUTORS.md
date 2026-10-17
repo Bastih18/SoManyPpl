@@ -2946,3 +2946,4 @@
 - gustavoguanabara (@gustavoguanabara)
 - gutocarollo (@gutocarollo)
 - guyarb (@guyarb)
+- guyroyse (@guyroyse)
