@@ -1213,3 +1213,4 @@
 - St0neWan9 (@St0neWan9)
 - Stability-AI (@Stability-AI)
 - Stage4000 (@Stage4000)
+- StatPan (@StatPan)
