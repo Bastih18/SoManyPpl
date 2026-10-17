@@ -5383,3 +5383,4 @@
 - terencelaurent (@terencelaurent)
 - terminalstate (@terminalstate)
 - termux (@termux)
+- terrizoaguimor (@terrizoaguimor)
