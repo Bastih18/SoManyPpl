@@ -5093,3 +5093,4 @@
 - shichanglin5 (@shichanglin5)
 - shicks (@shicks)
 - shiffman (@shiffman)
+- shiftkey (@shiftkey)
