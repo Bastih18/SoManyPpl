@@ -2649,3 +2649,4 @@
 - espressif (@espressif)
 - esrrahafase-crypto (@esrrahafase-crypto)
 - estromenko (@estromenko)
+- eternity4719 (@eternity4719)
