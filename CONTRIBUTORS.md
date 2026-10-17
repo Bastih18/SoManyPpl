@@ -2162,3 +2162,4 @@
 - classicrocker883 (@classicrocker883)
 - claude (@claude)
 - claude-code-best (@claude-code-best)
+- clawsweeper (@clawsweeper)
