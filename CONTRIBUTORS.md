@@ -244,3 +244,4 @@
 - CJX0712 (@CJX0712)
 - CK3thou (@CK3thou)
 - CLARKBENHAM (@CLARKBENHAM)
+- CLAassistant (@CLAassistant)
