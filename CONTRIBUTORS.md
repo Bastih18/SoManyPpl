@@ -3096,3 +3096,4 @@
 - huangsam (@huangsam)
 - huchenlei (@huchenlei)
 - hugenshen (@hugenshen)
+- huggingface (@huggingface)
