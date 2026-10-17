@@ -5512,3 +5512,4 @@
 - trimstray (@trimstray)
 - trinhminhtriet (@trinhminhtriet)
 - tripleabuilderbot (@tripleabuilderbot)
+- tristan-spear (@tristan-spear)
