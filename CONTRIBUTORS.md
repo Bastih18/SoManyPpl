@@ -5582,3 +5582,4 @@
 - uzbekdev1 (@uzbekdev1)
 - v0xie (@v0xie)
 - vacui-dev (@vacui-dev)
+- vadimartynov (@vadimartynov)
