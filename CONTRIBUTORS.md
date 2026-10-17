@@ -1934,3 +1934,4 @@
 - biomedengsam (@biomedengsam)
 - bitadashti (@bitadashti)
 - bitcoin (@bitcoin)
+- bitdeli-chef (@bitdeli-chef)
