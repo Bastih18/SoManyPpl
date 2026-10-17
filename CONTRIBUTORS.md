@@ -5070,3 +5070,4 @@
 - shakahl (@shakahl)
 - shakkernerd (@shakkernerd)
 - shalinib-ibm (@shalinib-ibm)
+- shamofu (@shamofu)
