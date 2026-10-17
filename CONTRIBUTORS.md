@@ -571,3 +571,4 @@
 - Hirose-Yuto (@Hirose-Yuto)
 - HolgerHees (@HolgerHees)
 - Homebrew (@Homebrew)
+- Horsts478 (@Horsts478)
