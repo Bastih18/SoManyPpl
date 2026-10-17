@@ -3459,3 +3459,4 @@
 - jtibshirani (@jtibshirani)
 - jtleek (@jtleek)
 - jtollerene (@jtollerene)
+- jtriley2p (@jtriley2p)
