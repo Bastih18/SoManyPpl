@@ -1100,3 +1100,4 @@
 - RogueTex (@RogueTex)
 - Rohan5commit (@Rohan5commit)
 - RohanSakhale (@RohanSakhale)
+- Rohit-Gahlawat (@Rohit-Gahlawat)
