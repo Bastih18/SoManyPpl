@@ -217,3 +217,4 @@
 - Bob-the-Kuhn (@Bob-the-Kuhn)
 - Bobmaintain (@Bobmaintain)
 - BogdanCerovac (@BogdanCerovac)
+- Boiarshinov (@Boiarshinov)
