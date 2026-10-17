@@ -5140,3 +5140,4 @@
 - simran-arora (@simran-arora)
 - sincof (@sincof)
 - sindresorhus (@sindresorhus)
+- sinejespersen (@sinejespersen)
