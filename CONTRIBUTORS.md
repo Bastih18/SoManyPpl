@@ -342,3 +342,4 @@
 - Darya100 (@Darya100)
 - Dashsoap (@Dashsoap)
 - DataBranner (@DataBranner)
+- DataLores (@DataLores)
