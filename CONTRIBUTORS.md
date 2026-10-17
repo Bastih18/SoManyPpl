@@ -2888,3 +2888,4 @@
 - golang (@golang)
 - golbin (@golbin)
 - golfpip (@golfpip)
+- golift-bot (@golift-bot)
