@@ -576,3 +576,4 @@
 - Hoverbear (@Hoverbear)
 - HuXn-WebDev (@HuXn-WebDev)
 - HugoSpy (@HugoSpy)
+- Huibean (@Huibean)
