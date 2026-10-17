@@ -2744,3 +2744,4 @@
 - finnityss (@finnityss)
 - firebase (@firebase)
 - firemodels (@firemodels)
+- fireship-io (@fireship-io)
