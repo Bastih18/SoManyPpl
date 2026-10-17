@@ -2129,3 +2129,4 @@
 - chokcoco (@chokcoco)
 - cholletk (@cholletk)
 - chouchoui (@chouchoui)
+- chouetz (@chouetz)
