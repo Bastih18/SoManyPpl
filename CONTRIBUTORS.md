@@ -4334,3 +4334,4 @@
 - nicknochnack (@nicknochnack)
 - nicks (@nicks)
 - nickserv (@nickserv)
+- nicktindall (@nicktindall)
