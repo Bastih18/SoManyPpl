@@ -1975,3 +1975,4 @@
 - borgified (@borgified)
 - boring89 (@boring89)
 - bosch-copilot (@bosch-copilot)
+- bot50 (@bot50)
