@@ -3071,3 +3071,4 @@
 - hoganlong (@hoganlong)
 - holman (@holman)
 - home-assistant (@home-assistant)
+- homfarnam (@homfarnam)
