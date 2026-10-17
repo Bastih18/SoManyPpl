@@ -52,3 +52,4 @@
 - 907Allepo (@907Allepo)
 - 996icu (@996icu)
 - ACAne0320 (@ACAne0320)
+- AI4Finance-Foundation (@AI4Finance-Foundation)
