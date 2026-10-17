@@ -3263,3 +3263,4 @@
 - jan-elastic (@jan-elastic)
 - janreyHablaMina (@janreyHablaMina)
 - jaredpalmer (@jaredpalmer)
+- jaredwray (@jaredwray)
