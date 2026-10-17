@@ -1006,3 +1006,4 @@
 - POPPIN-FUMI (@POPPIN-FUMI)
 - PacktPublishing (@PacktPublishing)
 - PaddlePaddle (@PaddlePaddle)
+- Palacios-89 (@Palacios-89)
