@@ -5179,3 +5179,4 @@
 - snowdj (@snowdj)
 - snowyukitty (@snowyukitty)
 - sobolevn (@sobolevn)
+- sofish (@sofish)
