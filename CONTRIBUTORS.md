@@ -3501,3 +3501,4 @@
 - kahangahanga (@kahangahanga)
 - kaihuan-huang (@kaihuan-huang)
 - kairandles (@kairandles)
+- kaitoyama (@kaitoyama)
