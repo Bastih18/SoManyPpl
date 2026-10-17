@@ -1105,3 +1105,4 @@
 - RomneyDa (@RomneyDa)
 - Ron-Zarbyte (@Ron-Zarbyte)
 - RonaldColyar (@RonaldColyar)
+- Rorychhattish (@Rorychhattish)
