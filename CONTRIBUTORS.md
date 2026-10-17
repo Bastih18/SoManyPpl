@@ -2507,3 +2507,4 @@
 - dorireuv (@dorireuv)
 - dotnet (@dotnet)
 - douglascrockford (@douglascrockford)
+- dougweibel (@dougweibel)
