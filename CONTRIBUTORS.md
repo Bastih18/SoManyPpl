@@ -3422,3 +3422,4 @@
 - joshua-berri (@joshua-berri)
 - joshua-ferreira0 (@joshua-ferreira0)
 - joshuafontany (@joshuafontany)
+- joshwcomeau (@joshwcomeau)
