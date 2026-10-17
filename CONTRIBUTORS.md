@@ -3147,3 +3147,4 @@
 - ichinaski (@ichinaski)
 - icodening (@icodening)
 - iconfont-cn (@iconfont-cn)
+- ictxiangxin (@ictxiangxin)
