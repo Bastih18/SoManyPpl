@@ -3545,3 +3545,4 @@
 - kencheeto (@kencheeto)
 - kenhkan (@kenhkan)
 - kenjinote (@kenjinote)
+- kennethreitz (@kennethreitz)
