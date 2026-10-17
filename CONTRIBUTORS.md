@@ -5793,3 +5793,4 @@
 - xt-ma (@xt-ma)
 - xtrime-ru (@xtrime-ru)
 - xulunfan (@xulunfan)
+- xumingkuan (@xumingkuan)
