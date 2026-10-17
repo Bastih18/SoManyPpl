@@ -5640,3 +5640,4 @@
 - vivekthedev (@vivekthedev)
 - vivekweb2013 (@vivekweb2013)
 - vjanz (@vjanz)
+- vjeux (@vjeux)
