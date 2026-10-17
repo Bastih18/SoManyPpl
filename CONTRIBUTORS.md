@@ -2071,3 +2071,4 @@
 - cassidoo (@cassidoo)
 - castrolol (@castrolol)
 - catboxanon (@catboxanon)
+- catppuccin (@catppuccin)
