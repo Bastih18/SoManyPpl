@@ -1711,3 +1711,4 @@
 - anki-code (@anki-code)
 - annieyw (@annieyw)
 - anomalyco (@anomalyco)
+- anonymouscommitter (@anonymouscommitter)
