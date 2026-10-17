@@ -4898,3 +4898,4 @@
 - ruocaled (@ruocaled)
 - russbiggs (@russbiggs)
 - rust-lang (@rust-lang)
+- rustdesk (@rustdesk)
