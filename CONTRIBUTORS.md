@@ -5592,3 +5592,4 @@
 - valeonte (@valeonte)
 - valscion (@valscion)
 - vapier (@vapier)
+- varomodt (@varomodt)
