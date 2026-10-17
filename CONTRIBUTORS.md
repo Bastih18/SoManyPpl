@@ -5142,3 +5142,4 @@
 - sindresorhus (@sindresorhus)
 - sinejespersen (@sinejespersen)
 - singwhatiwanna (@singwhatiwanna)
+- sinomoe (@sinomoe)
