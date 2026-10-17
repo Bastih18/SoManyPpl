@@ -2427,3 +2427,4 @@
 - dergachoff (@dergachoff)
 - dericcain (@dericcain)
 - desandro (@desandro)
+- descipher (@descipher)
