@@ -982,3 +982,4 @@
 - OneLoneCoder (@OneLoneCoder)
 - OnyedikaBenjamin (@OnyedikaBenjamin)
 - OpenBMB (@OpenBMB)
+- OpenHarmonySCM-noreply (@OpenHarmonySCM-noreply)
