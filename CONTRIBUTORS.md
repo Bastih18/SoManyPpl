@@ -1082,3 +1082,4 @@
 - Rey092 (@Rey092)
 - Rezmason (@Rezmason)
 - RhinoSecurityLabs (@RhinoSecurityLabs)
+- RianGallagher (@RianGallagher)
