@@ -2357,3 +2357,4 @@
 - davecheney (@davecheney)
 - davedav3e (@davedav3e)
 - davemachado (@davemachado)
+- daveshap (@daveshap)
