@@ -2459,3 +2459,4 @@
 - diego3g (@diego3g)
 - diegokoes (@diegokoes)
 - dieharders (@dieharders)
+- diffwireauto (@diffwireauto)
