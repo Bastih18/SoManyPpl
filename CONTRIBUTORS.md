@@ -1710,3 +1710,4 @@
 - ankane (@ankane)
 - anki-code (@anki-code)
 - annieyw (@annieyw)
+- anomalyco (@anomalyco)
