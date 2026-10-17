@@ -2010,3 +2010,4 @@
 - brstgt (@brstgt)
 - brunolemos (@brunolemos)
 - brunolucassf (@brunolucassf)
+- brunosimon (@brunosimon)
