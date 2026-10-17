@@ -2748,3 +2748,4 @@
 - fizz56441-lab (@fizz56441-lab)
 - flaviendelangle (@flaviendelangle)
 - flexi767 (@flexi767)
+- flipperdevices (@flipperdevices)
