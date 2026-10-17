@@ -1279,3 +1279,4 @@
 - ThePrimeagen (@ThePrimeagen)
 - TheServat (@TheServat)
 - TheViral-source (@TheViral-source)
+- TheWeirdDee (@TheWeirdDee)
