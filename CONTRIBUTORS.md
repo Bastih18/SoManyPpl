@@ -4317,3 +4317,4 @@
 - neubig (@neubig)
 - neumark (@neumark)
 - newhinton (@newhinton)
+- newoga (@newoga)
