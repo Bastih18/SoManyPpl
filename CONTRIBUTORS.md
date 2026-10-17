@@ -4662,3 +4662,4 @@
 - pxsalehi (@pxsalehi)
 - pyaillet (@pyaillet)
 - python (@python)
+- pytorch (@pytorch)
