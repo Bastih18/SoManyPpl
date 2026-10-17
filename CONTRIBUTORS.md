@@ -435,3 +435,4 @@
 - EugenioBuffo (@EugenioBuffo)
 - EurekaLabsAI (@EurekaLabsAI)
 - Euro-Office (@Euro-Office)
+- EvanBacon (@EvanBacon)
