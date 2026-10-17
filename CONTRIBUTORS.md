@@ -804,3 +804,4 @@
 - Magical-MeowMeow (@Magical-MeowMeow)
 - Magicianred (@Magicianred)
 - MagnaCapax (@MagnaCapax)
+- MagoKimbra (@MagoKimbra)
