@@ -4527,3 +4527,4 @@
 - patrickloeber (@patrickloeber)
 - patrickscd (@patrickscd)
 - patrickvonplaten (@patrickvonplaten)
+- patrykryczko (@patrykryczko)
