@@ -3984,3 +3984,4 @@
 - maverikou (@maverikou)
 - max-krasnyansky (@max-krasnyansky)
 - max-mapper (@max-mapper)
+- maxdeichmann (@maxdeichmann)
