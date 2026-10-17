@@ -2476,3 +2476,4 @@
 - divyesh2123 (@divyesh2123)
 - dj2313 (@dj2313)
 - django (@django)
+- djdeath (@djdeath)
