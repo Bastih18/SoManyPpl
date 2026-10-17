@@ -5184,3 +5184,4 @@
 - softpudding (@softpudding)
 - sohansai (@sohansai)
 - soheilhosseini-jobbot (@soheilhosseini-jobbot)
+- sokra (@sokra)
