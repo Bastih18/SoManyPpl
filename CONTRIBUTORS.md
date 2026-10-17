@@ -4461,3 +4461,4 @@
 - openclaw (@openclaw)
 - openenergymonitor (@openenergymonitor)
 - openhands-agent (@openhands-agent)
+- openjdk (@openjdk)
