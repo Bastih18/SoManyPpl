@@ -1611,3 +1611,4 @@
 - alexlenk (@alexlenk)
 - alexmorbo (@alexmorbo)
 - alexspracheundwissen (@alexspracheundwissen)
+- alexsyntonize (@alexsyntonize)
