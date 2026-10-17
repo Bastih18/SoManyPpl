@@ -3007,3 +3007,4 @@
 - hashicorp (@hashicorp)
 - hasinhayder (@hasinhayder)
 - hastadhana (@hastadhana)
+- hastizarei (@hastizarei)
