@@ -3251,3 +3251,4 @@
 - jakevdp (@jakevdp)
 - jalehman (@jalehman)
 - jamaa (@jamaa)
+- jamalkamaladdin (@jamalkamaladdin)
