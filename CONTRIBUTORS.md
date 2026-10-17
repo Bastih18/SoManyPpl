@@ -2669,3 +2669,4 @@
 - evilpan (@evilpan)
 - evilsocket (@evilsocket)
 - evmar (@evmar)
+- evshiron (@evshiron)
