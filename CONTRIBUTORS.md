@@ -4346,3 +4346,4 @@
 - nikhilkala (@nikhilkala)
 - nikhilroxtomar (@nikhilroxtomar)
 - nikhilzx (@nikhilzx)
+- nikic (@nikic)
