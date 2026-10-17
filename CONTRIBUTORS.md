@@ -4785,3 +4785,4 @@
 - richhickey (@richhickey)
 - rick-github (@rick-github)
 - rickhanlonii (@rickhanlonii)
+- rictic (@rictic)
