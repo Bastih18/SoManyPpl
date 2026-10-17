@@ -3690,3 +3690,4 @@
 - larroy (@larroy)
 - larrylv (@larrylv)
 - laruence (@laruence)
+- lattner (@lattner)
