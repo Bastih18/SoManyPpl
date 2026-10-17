@@ -2796,3 +2796,4 @@
 - fuller-stack-dev (@fuller-stack-dev)
 - fundletr (@fundletr)
 - funguf (@funguf)
+- funky-eyes (@funky-eyes)
