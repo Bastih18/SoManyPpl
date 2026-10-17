@@ -4078,3 +4078,4 @@
 - midudev (@midudev)
 - miguelgrinberg (@miguelgrinberg)
 - mikaoelitiana (@mikaoelitiana)
+- mikemccand (@mikemccand)
