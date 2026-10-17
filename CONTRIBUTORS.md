@@ -2100,3 +2100,4 @@
 - charly-palencia-forge (@charly-palencia-forge)
 - charmbracelet (@charmbracelet)
 - chatgpt-codex-connector (@chatgpt-codex-connector)
+- chatphp (@chatphp)
