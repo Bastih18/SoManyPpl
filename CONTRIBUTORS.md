@@ -2902,3 +2902,4 @@
 - gopinav (@gopinav)
 - gorgo-dotcom (@gorgo-dotcom)
 - gorhill (@gorhill)
+- goswinr (@goswinr)
