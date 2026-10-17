@@ -3376,3 +3376,4 @@
 - joaobrazuna (@joaobrazuna)
 - joaomagfreitas (@joaomagfreitas)
 - joaoventuri (@joaoventuri)
+- jodylecompte (@jodylecompte)
