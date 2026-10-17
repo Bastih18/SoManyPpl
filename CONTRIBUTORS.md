@@ -5061,3 +5061,4 @@
 - sha2fiddy (@sha2fiddy)
 - shaanmajid (@shaanmajid)
 - shadcn (@shadcn)
+- shadcn-ui (@shadcn-ui)
