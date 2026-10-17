@@ -4897,3 +4897,4 @@
 - runnableAir (@runnableAir)
 - ruocaled (@ruocaled)
 - russbiggs (@russbiggs)
+- rust-lang (@rust-lang)
