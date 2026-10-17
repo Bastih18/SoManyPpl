@@ -5270,3 +5270,4 @@
 - streamlit (@streamlit)
 - stronglifythemes (@stronglifythemes)
 - stscoundrel (@stscoundrel)
+- stuartellis (@stuartellis)
