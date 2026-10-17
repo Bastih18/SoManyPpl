@@ -5080,3 +5080,4 @@
 - sharifitabar (@sharifitabar)
 - sharkdp (@sharkdp)
 - sharmas1ddharth (@sharmas1ddharth)
+- sharpcodex (@sharpcodex)
