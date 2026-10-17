@@ -4920,3 +4920,4 @@
 - ryzhovau (@ryzhovau)
 - rzmk (@rzmk)
 - s-alad (@s-alad)
+- s-brand (@s-brand)
