@@ -340,3 +340,4 @@
 - DannyDaemonic (@DannyDaemonic)
 - DariusHQ (@DariusHQ)
 - Darya100 (@Darya100)
+- Dashsoap (@Dashsoap)
