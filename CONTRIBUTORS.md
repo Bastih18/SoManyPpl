@@ -4335,3 +4335,4 @@
 - nicks (@nicks)
 - nickserv (@nickserv)
 - nicktindall (@nicktindall)
+- nickuraltsev (@nickuraltsev)
