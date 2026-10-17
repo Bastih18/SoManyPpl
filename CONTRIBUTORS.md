@@ -3669,3 +3669,4 @@
 - l10nbot (@l10nbot)
 - l3utterfly (@l3utterfly)
 - labuladong (@labuladong)
+- lachenmayer (@lachenmayer)
