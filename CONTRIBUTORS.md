@@ -2766,3 +2766,4 @@
 - fossbilling-bot (@fossbilling-bot)
 - fouber (@fouber)
 - fperim-plana (@fperim-plana)
+- fractaledmind (@fractaledmind)
