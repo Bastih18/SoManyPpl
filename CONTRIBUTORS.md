@@ -4783,3 +4783,4 @@
 - ricdevz (@ricdevz)
 - richardsonjf (@richardsonjf)
 - richhickey (@richhickey)
+- rick-github (@rick-github)
