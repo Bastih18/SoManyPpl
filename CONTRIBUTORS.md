@@ -5021,3 +5021,4 @@
 - scribblecrumb (@scribblecrumb)
 - scroll-tech (@scroll-tech)
 - scrutinizer-auto-fixer (@scrutinizer-auto-fixer)
+- sdispater (@sdispater)
