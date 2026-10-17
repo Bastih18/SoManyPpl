@@ -5583,3 +5583,4 @@
 - v0xie (@v0xie)
 - vacui-dev (@vacui-dev)
 - vadimartynov (@vadimartynov)
+- vagnerd (@vagnerd)
