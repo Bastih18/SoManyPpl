@@ -3189,3 +3189,4 @@
 - intel-restricted (@intel-restricted)
 - intel-sandbox (@intel-sandbox)
 - interviewstreet (@interviewstreet)
+- intevoir (@intevoir)
