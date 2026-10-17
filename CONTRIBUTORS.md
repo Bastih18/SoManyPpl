@@ -2318,3 +2318,4 @@
 - daniel-llach (@daniel-llach)
 - daniel-meismer-zocdoc (@daniel-meismer-zocdoc)
 - daniel-noland (@daniel-noland)
+- danieladov (@danieladov)
