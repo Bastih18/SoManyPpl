@@ -479,3 +479,4 @@
 - FuelLabs (@FuelLabs)
 - Fuelet (@Fuelet)
 - FujishigeTemma (@FujishigeTemma)
+- FullStackAIDeveloper (@FullStackAIDeveloper)
