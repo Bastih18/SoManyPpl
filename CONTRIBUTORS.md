@@ -30,3 +30,4 @@
 - 20essentials (@20essentials)
 - 23doors (@23doors)
 - 24stefan (@24stefan)
+- 24take (@24take)
