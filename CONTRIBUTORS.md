@@ -5324,3 +5324,4 @@
 - tachiyomiorg (@tachiyomiorg)
 - tadeegan (@tadeegan)
 - taikoxyz (@taikoxyz)
+- tailwindlabs (@tailwindlabs)
