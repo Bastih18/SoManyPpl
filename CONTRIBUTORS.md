@@ -3687,3 +3687,4 @@
 - lapshin-vitaly (@lapshin-vitaly)
 - laravel (@laravel)
 - larpon (@larpon)
+- larroy (@larroy)
