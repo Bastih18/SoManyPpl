@@ -5097,3 +5097,4 @@
 - shihyuho (@shihyuho)
 - shika-hub (@shika-hub)
 - shikhart98 (@shikhart98)
+- shin-berri (@shin-berri)
