@@ -1778,3 +1778,4 @@
 - arteam (@arteam)
 - arthurbenemann (@arthurbenemann)
 - arthurfiorette (@arthurfiorette)
+- arthurkz (@arthurkz)
