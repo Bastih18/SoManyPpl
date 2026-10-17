@@ -4396,3 +4396,4 @@
 - notwaldorf (@notwaldorf)
 - nplanel (@nplanel)
 - npmcdn-to-unpkg-bot (@npmcdn-to-unpkg-bot)
+- npverni (@npverni)
