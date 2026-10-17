@@ -1795,3 +1795,4 @@
 - ashadkajitola-cmyk (@ashadkajitola-cmyk)
 - ashanzzz (@ashanzzz)
 - ashavolian (@ashavolian)
+- ashishpatel26 (@ashishpatel26)
