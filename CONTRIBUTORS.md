@@ -849,3 +849,4 @@
 - MercuryTechnologies (@MercuryTechnologies)
 - MetaCubeX (@MetaCubeX)
 - MetaMask (@MetaMask)
+- MiQ71 (@MiQ71)
