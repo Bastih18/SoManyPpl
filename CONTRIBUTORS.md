@@ -1692,3 +1692,4 @@
 - andrextor (@andrextor)
 - andriijas (@andriijas)
 - android (@android)
+- android10 (@android10)
