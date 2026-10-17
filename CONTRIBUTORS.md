@@ -5322,3 +5322,4 @@
 - tabidachinokaze (@tabidachinokaze)
 - tabrindle (@tabrindle)
 - tachiyomiorg (@tachiyomiorg)
+- tadeegan (@tadeegan)
