@@ -2719,3 +2719,4 @@
 - felipetruman (@felipetruman)
 - felipewmartins (@felipewmartins)
 - felixbarny (@felixbarny)
+- felixmedioni (@felixmedioni)
