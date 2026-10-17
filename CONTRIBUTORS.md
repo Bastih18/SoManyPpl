@@ -4862,3 +4862,4 @@
 - roshanakkarimi19-dotcom (@roshanakkarimi19-dotcom)
 - rosskevin (@rosskevin)
 - rossning92 (@rossning92)
+- rougier (@rougier)
