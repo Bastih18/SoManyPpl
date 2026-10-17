@@ -2124,3 +2124,4 @@
 - chinesedfan (@chinesedfan)
 - chiphuyen (@chiphuyen)
 - choang (@choang)
+- chobitsfan (@chobitsfan)
