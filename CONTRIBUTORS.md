@@ -2079,3 +2079,4 @@
 - cbagwell (@cbagwell)
 - cbuescher (@cbuescher)
 - cclauss (@cclauss)
+- cdaise (@cdaise)
