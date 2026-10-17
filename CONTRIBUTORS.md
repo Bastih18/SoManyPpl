@@ -2165,3 +2165,4 @@
 - clawsweeper (@clawsweeper)
 - clayw (@clayw)
 - cldbot (@cldbot)
+- cleemesser (@cleemesser)
