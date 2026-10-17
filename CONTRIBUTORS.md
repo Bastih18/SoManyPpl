@@ -2576,3 +2576,4 @@
 - elanora007 (@elanora007)
 - elasticsearchmachine (@elasticsearchmachine)
 - eldar702 (@eldar702)
+- elder-plinius (@elder-plinius)
