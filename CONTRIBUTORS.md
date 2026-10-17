@@ -1501,3 +1501,4 @@
 - adammsaipullll349 (@adammsaipullll349)
 - adamwathan (@adamwathan)
 - adan89lion (@adan89lion)
+- addyosmani (@addyosmani)
