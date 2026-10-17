@@ -47,3 +47,4 @@
 - 53l3cu5 (@53l3cu5)
 - 5aimatsu (@5aimatsu)
 - 5unkn16ht-z (@5unkn16ht-z)
+- 6fgdgwz6t2-tech (@6fgdgwz6t2-tech)
