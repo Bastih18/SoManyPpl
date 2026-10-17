@@ -4337,3 +4337,4 @@
 - nicktindall (@nicktindall)
 - nickuraltsev (@nickuraltsev)
 - nickvergessen (@nickvergessen)
+- nicoe (@nicoe)
