@@ -5095,3 +5095,4 @@
 - shiffman (@shiffman)
 - shiftkey (@shiftkey)
 - shihyuho (@shihyuho)
+- shika-hub (@shika-hub)
