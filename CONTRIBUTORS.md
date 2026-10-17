@@ -4385,3 +4385,4 @@
 - norman-ipn (@norman-ipn)
 - norrisjason002 (@norrisjason002)
 - norvig (@norvig)
+- nosportugal (@nosportugal)
