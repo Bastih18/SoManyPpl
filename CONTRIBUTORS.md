@@ -3377,3 +3377,4 @@
 - joaomagfreitas (@joaomagfreitas)
 - joaoventuri (@joaoventuri)
 - jodylecompte (@jodylecompte)
+- joebertcerezo (@joebertcerezo)
