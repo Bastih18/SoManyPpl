@@ -5617,3 +5617,4 @@
 - viankakrisna (@viankakrisna)
 - vibemasshq-dev (@vibemasshq-dev)
 - viblo-majority (@viblo-majority)
+- vicasas (@vicasas)
