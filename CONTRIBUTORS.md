@@ -575,3 +575,4 @@
 - Hosshii (@Hosshii)
 - Hoverbear (@Hoverbear)
 - HuXn-WebDev (@HuXn-WebDev)
+- HugoSpy (@HugoSpy)
