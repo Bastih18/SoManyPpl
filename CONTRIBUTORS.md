@@ -4717,3 +4717,4 @@
 - rasbt (@rasbt)
 - rashmibharambe (@rashmibharambe)
 - rasidi3112 (@rasidi3112)
+- raspberrypi (@raspberrypi)
