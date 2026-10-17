@@ -5349,3 +5349,4 @@
 - tatsuy (@tatsuy)
 - tavisrudd (@tavisrudd)
 - taylorotwell (@taylorotwell)
+- taymonbeal (@taymonbeal)
