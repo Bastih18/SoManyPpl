@@ -2376,3 +2376,4 @@
 - davidskeck (@davidskeck)
 - davidteather (@davidteather)
 - davidyehuda45-byte (@davidyehuda45-byte)
+- daviewales (@daviewales)
