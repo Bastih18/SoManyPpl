@@ -3411,3 +3411,4 @@
 - joserodolfofreitas (@joserodolfofreitas)
 - josevalim (@josevalim)
 - josh-egan (@josh-egan)
+- joshanne (@joshanne)
