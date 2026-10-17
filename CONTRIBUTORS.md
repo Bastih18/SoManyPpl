@@ -944,3 +944,4 @@
 - NianJiuZst (@NianJiuZst)
 - NielsRogge (@NielsRogge)
 - NikTh (@NikTh)
+- NikonFlex (@NikonFlex)
