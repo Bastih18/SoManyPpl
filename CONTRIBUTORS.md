@@ -2780,3 +2780,4 @@
 - frederikb (@frederikb)
 - fredj (@fredj)
 - freeCodeCamp (@freeCodeCamp)
+- freemanzMrojo (@freemanzMrojo)
