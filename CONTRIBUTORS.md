@@ -2866,3 +2866,4 @@
 - giswqs (@giswqs)
 - git-ecosystem (@git-ecosystem)
 - gitdagray (@gitdagray)
+- gitfelipegomes (@gitfelipegomes)
