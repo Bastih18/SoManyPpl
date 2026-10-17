@@ -2716,3 +2716,4 @@
 - felipeAguiarCode (@felipeAguiarCode)
 - felipefialho (@felipefialho)
 - felipenmoura (@felipenmoura)
+- felipetruman (@felipetruman)
