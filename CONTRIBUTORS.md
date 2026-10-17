@@ -3474,3 +3474,4 @@
 - junegunn (@junegunn)
 - junjiem (@junjiem)
 - junkerderprovinz (@junkerderprovinz)
+- junkiyoshi (@junkiyoshi)
