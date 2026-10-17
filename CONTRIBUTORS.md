@@ -1059,3 +1059,4 @@
 - Qusavin (@Qusavin)
 - QwenLM (@QwenLM)
 - R-Lefebvre (@R-Lefebvre)
+- R-N (@R-N)
