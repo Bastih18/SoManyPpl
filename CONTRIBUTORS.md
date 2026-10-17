@@ -2068,3 +2068,4 @@
 - carpedm20 (@carpedm20)
 - carryxyh (@carryxyh)
 - carsteneu (@carsteneu)
+- cassidoo (@cassidoo)
