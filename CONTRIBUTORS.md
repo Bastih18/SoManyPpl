@@ -3255,3 +3255,4 @@
 - james-seymour-cubiko (@james-seymour-cubiko)
 - jamescheng16 (@jamescheng16)
 - jamesgeorge007 (@jamesgeorge007)
+- jameshartig (@jameshartig)
