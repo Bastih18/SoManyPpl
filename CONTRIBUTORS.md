@@ -5168,3 +5168,4 @@
 - slaren (@slaren)
 - slepyzai (@slepyzai)
 - slievrly (@slievrly)
+- slowbro (@slowbro)
