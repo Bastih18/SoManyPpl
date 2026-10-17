@@ -309,3 +309,4 @@
 - CollabxConstruct (@CollabxConstruct)
 - Colt (@Colt)
 - CommanderRoot (@CommanderRoot)
+- Connoise (@Connoise)
