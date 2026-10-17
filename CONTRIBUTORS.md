@@ -1531,3 +1531,4 @@
 - agentverse-os (@agentverse-os)
 - agentzh (@agentzh)
 - ageron (@ageron)
+- agisota (@agisota)
