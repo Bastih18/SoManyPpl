@@ -3439,3 +3439,4 @@
 - jpodivin (@jpodivin)
 - jpountz (@jpountz)
 - jpshackelford (@jpshackelford)
+- jquinter (@jquinter)
