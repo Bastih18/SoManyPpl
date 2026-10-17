@@ -5794,3 +5794,4 @@
 - xtrime-ru (@xtrime-ru)
 - xulunfan (@xulunfan)
 - xumingkuan (@xumingkuan)
+- xuzuodong (@xuzuodong)
