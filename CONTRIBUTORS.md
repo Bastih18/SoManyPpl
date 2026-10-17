@@ -283,3 +283,4 @@
 - ChrisHegarty (@ChrisHegarty)
 - ChrisTitusTech (@ChrisTitusTech)
 - ChrisluRoblox (@ChrisluRoblox)
+- ChristianLempa (@ChristianLempa)
