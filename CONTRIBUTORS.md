@@ -1910,3 +1910,4 @@
 - benwtrent (@benwtrent)
 - bergie (@bergie)
 - bernardobelchior (@bernardobelchior)
+- bernardowd (@bernardowd)
