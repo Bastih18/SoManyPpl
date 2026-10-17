@@ -5300,3 +5300,4 @@
 - svdaru (@svdaru)
 - svensteiner (@svensteiner)
 - sw (@sw)
+- swabird (@swabird)
