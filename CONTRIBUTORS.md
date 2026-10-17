@@ -1568,3 +1568,4 @@
 - akaxlh (@akaxlh)
 - akhmadarief (@akhmadarief)
 - akimon658 (@akimon658)
+- akitaonrails (@akitaonrails)
