@@ -5200,3 +5200,4 @@
 - sophiebits (@sophiebits)
 - sorrycc (@sorrycc)
 - soulteary (@soulteary)
+- soumith (@soumith)
