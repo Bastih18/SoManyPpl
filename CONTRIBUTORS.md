@@ -5304,3 +5304,4 @@
 - swaggo (@swaggo)
 - swankjesse (@swankjesse)
 - swisskyrepo (@swisskyrepo)
+- switer (@switer)
