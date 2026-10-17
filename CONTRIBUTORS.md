@@ -3799,3 +3799,4 @@
 - lllyasviel (@lllyasviel)
 - lmanchu (@lmanchu)
 - lmk123 (@lmk123)
+- lmstudio-ai (@lmstudio-ai)
