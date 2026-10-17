@@ -3336,3 +3336,4 @@
 - jgpacker (@jgpacker)
 - jgranick (@jgranick)
 - jgthms (@jgthms)
+- jhaddix (@jhaddix)
