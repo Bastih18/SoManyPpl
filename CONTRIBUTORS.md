@@ -914,3 +914,4 @@
 - NMinhNguyen (@NMinhNguyen)
 - NMminer1024 (@NMminer1024)
 - NShahri (@NShahri)
+- NVIDIA (@NVIDIA)
