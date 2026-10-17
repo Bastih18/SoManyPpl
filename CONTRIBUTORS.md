@@ -2570,3 +2570,4 @@
 - ehooi (@ehooi)
 - eilnazii (@eilnazii)
 - ejones (@ejones)
+- ejtagle (@ejtagle)
