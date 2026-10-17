@@ -742,3 +742,4 @@
 - LaplaceYoung (@LaplaceYoung)
 - LaravelDaily (@LaravelDaily)
 - LastDreamer (@LastDreamer)
+- LaurieWired (@LaurieWired)
