@@ -2343,3 +2343,4 @@
 - darkain (@darkain)
 - darthjee (@darthjee)
 - darwinamaroeustaquio-bot (@darwinamaroeustaquio-bot)
+- das-nagnag (@das-nagnag)
