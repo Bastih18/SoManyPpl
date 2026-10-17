@@ -5060,3 +5060,4 @@
 - sha-265 (@sha-265)
 - sha2fiddy (@sha2fiddy)
 - shaanmajid (@shaanmajid)
+- shadcn (@shadcn)
