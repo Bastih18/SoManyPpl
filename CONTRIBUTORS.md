@@ -4781,3 +4781,4 @@
 - ribeirojose (@ribeirojose)
 - ricardocacco (@ricardocacco)
 - ricdevz (@ricdevz)
+- richardsonjf (@richardsonjf)
