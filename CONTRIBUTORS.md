@@ -1085,3 +1085,4 @@
 - RianGallagher (@RianGallagher)
 - Rich-Harris (@Rich-Harris)
 - RikkiGibson (@RikkiGibson)
+- Ritad51 (@Ritad51)
