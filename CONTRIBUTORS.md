@@ -5092,3 +5092,4 @@
 - sheydasharifzadeh-gif (@sheydasharifzadeh-gif)
 - shichanglin5 (@shichanglin5)
 - shicks (@shicks)
+- shiffman (@shiffman)
