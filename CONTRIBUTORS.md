@@ -233,3 +233,4 @@
 - Bryan-an (@Bryan-an)
 - BuboTheWise (@BuboTheWise)
 - Bubu (@Bubu)
+- BuggerBag (@BuggerBag)
