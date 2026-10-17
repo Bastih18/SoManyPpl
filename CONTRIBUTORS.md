@@ -5769,3 +5769,4 @@
 - xcontcom (@xcontcom)
 - xcx0902 (@xcx0902)
 - xdavidhu (@xdavidhu)
+- xdevplatform (@xdevplatform)
