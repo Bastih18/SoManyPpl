@@ -5781,3 +5781,4 @@
 - xingyaoww (@xingyaoww)
 - xinitrc-dev (@xinitrc-dev)
 - xinjiu-qwq (@xinjiu-qwq)
+- xirong (@xirong)
