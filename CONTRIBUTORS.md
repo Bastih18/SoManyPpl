@@ -1835,3 +1835,4 @@
 - awdemos (@awdemos)
 - awentzonline (@awentzonline)
 - awesomebytes (@awesomebytes)
+- awesomekling (@awesomekling)
