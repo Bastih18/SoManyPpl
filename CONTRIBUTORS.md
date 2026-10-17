@@ -245,3 +245,4 @@
 - CK3thou (@CK3thou)
 - CLARKBENHAM (@CLARKBENHAM)
 - CLAassistant (@CLAassistant)
+- CLFutureX (@CLFutureX)
