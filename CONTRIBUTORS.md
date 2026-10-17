@@ -3525,3 +3525,4 @@
 - karmi (@karmi)
 - karoliina (@karoliina)
 - karpathy (@karpathy)
+- kartikeytripathi (@kartikeytripathi)
