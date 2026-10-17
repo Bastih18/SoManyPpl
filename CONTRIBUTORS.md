@@ -237,3 +237,4 @@
 - BunsDev (@BunsDev)
 - BurningCN (@BurningCN)
 - BurntSushi (@BurntSushi)
+- Burrowuamplify (@Burrowuamplify)
