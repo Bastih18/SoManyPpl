@@ -4061,3 +4061,4 @@
 - mhevery (@mhevery)
 - mholt (@mholt)
 - mic-rigaud (@mic-rigaud)
+- michaelbenayoun (@michaelbenayoun)
