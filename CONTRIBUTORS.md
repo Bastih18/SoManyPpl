@@ -3046,3 +3046,4 @@
 - hipudding (@hipudding)
 - hiscodesmells (@hiscodesmells)
 - historicalsource (@historicalsource)
+- hit9 (@hit9)
