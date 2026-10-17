@@ -2869,3 +2869,4 @@
 - gitfelipegomes (@gitfelipegomes)
 - github (@github)
 - gitstart (@gitstart)
+- giuseppeM99 (@giuseppeM99)
