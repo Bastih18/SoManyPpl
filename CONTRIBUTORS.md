@@ -4566,3 +4566,4 @@
 - petetnt (@petetnt)
 - petrushev (@petrushev)
 - petrzjunior (@petrzjunior)
+- pewdiepie-archdaemon (@pewdiepie-archdaemon)
