@@ -4397,3 +4397,4 @@
 - nplanel (@nplanel)
 - npmcdn-to-unpkg-bot (@npmcdn-to-unpkg-bot)
 - npverni (@npverni)
+- nreid260 (@nreid260)
