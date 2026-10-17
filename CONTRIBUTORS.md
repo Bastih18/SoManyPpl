@@ -5658,3 +5658,4 @@
 - vtnorton (@vtnorton)
 - vuejs (@vuejs)
 - vueuse (@vueuse)
+- vuvincent (@vuvincent)
