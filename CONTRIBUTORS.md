@@ -2487,3 +2487,4 @@
 - dkpaul91 (@dkpaul91)
 - dlochrie (@dlochrie)
 - dmach (@dmach)
+- dmalan (@dmalan)
