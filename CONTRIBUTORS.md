@@ -1211,3 +1211,4 @@
 - Srihari-mcw (@Srihari-mcw)
 - SrihithY (@SrihithY)
 - St0neWan9 (@St0neWan9)
+- Stability-AI (@Stability-AI)
