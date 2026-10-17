@@ -4436,3 +4436,4 @@
 - olexale (@olexale)
 - olgpvlv (@olgpvlv)
 - olivielpeau (@olivielpeau)
+- oliviertassinari (@oliviertassinari)
