@@ -5059,3 +5059,4 @@
 - sh83 (@sh83)
 - sha-265 (@sha-265)
 - sha2fiddy (@sha2fiddy)
+- shaanmajid (@shaanmajid)
