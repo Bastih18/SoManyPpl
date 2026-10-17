@@ -1352,3 +1352,4 @@
 - Vespinian (@Vespinian)
 - VictorAvelar (@VictorAvelar)
 - VictorSanh (@VictorSanh)
+- VictorTaelin (@VictorTaelin)
