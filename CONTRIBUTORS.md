@@ -3374,3 +3374,4 @@
 - jn-jairo (@jn-jairo)
 - joaoGabriel55 (@joaoGabriel55)
 - joaobrazuna (@joaobrazuna)
+- joaomagfreitas (@joaomagfreitas)
