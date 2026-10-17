@@ -5126,3 +5126,4 @@
 - sigmaSd (@sigmaSd)
 - signalapp (@signalapp)
 - signcla-test-unsigned (@signcla-test-unsigned)
+- silicia-apps (@silicia-apps)
