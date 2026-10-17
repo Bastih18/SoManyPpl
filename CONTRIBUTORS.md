@@ -2159,3 +2159,4 @@
 - clamoriniere (@clamoriniere)
 - clarkb7 (@clarkb7)
 - clash-verge-rev (@clash-verge-rev)
+- classicrocker883 (@classicrocker883)
