@@ -967,3 +967,4 @@
 - Nvbess (@Nvbess)
 - NyaMisty (@NyaMisty)
 - ORippler (@ORippler)
+- OS3DrNick (@OS3DrNick)
