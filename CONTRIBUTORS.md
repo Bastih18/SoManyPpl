@@ -1060,3 +1060,4 @@
 - QwenLM (@QwenLM)
 - R-Lefebvre (@R-Lefebvre)
 - R-N (@R-N)
+- R3DLEADER (@R3DLEADER)
