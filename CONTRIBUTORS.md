@@ -5269,3 +5269,4 @@
 - strava (@strava)
 - streamlit (@streamlit)
 - stronglifythemes (@stronglifythemes)
+- stscoundrel (@stscoundrel)
