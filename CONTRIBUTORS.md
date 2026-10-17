@@ -2134,3 +2134,4 @@
 - choznerol (@choznerol)
 - chpego (@chpego)
 - chrisbanes (@chrisbanes)
+- chriscavalluzzi (@chriscavalluzzi)
