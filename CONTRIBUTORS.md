@@ -325,3 +325,4 @@
 - CybotTM (@CybotTM)
 - Cylindric (@Cylindric)
 - Cyrilvallez (@Cyrilvallez)
+- DEOWL-kan (@DEOWL-kan)
