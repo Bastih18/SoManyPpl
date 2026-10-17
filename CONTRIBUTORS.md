@@ -2585,3 +2585,4 @@
 - elidianaandrade (@elidianaandrade)
 - eliperelman (@eliperelman)
 - elisalimli (@elisalimli)
+- eliseosoto (@eliseosoto)
