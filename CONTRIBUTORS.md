@@ -3248,3 +3248,4 @@
 - jairhenrique (@jairhenrique)
 - jakearchibald (@jakearchibald)
 - jakelandis (@jakelandis)
+- jakevdp (@jakevdp)
