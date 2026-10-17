@@ -5043,3 +5043,4 @@
 - sempr (@sempr)
 - sengeiou (@sengeiou)
 - seniorvuejsdeveloper (@seniorvuejsdeveloper)
+- seoseo-ai (@seoseo-ai)
