@@ -291,3 +291,4 @@
 - ClashSAN (@ClashSAN)
 - ClassicOldSong (@ClassicOldSong)
 - ClaudioTessaro (@ClaudioTessaro)
+- CleanCut (@CleanCut)
