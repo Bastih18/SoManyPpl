@@ -574,3 +574,4 @@
 - Horsts478 (@Horsts478)
 - Hosshii (@Hosshii)
 - Hoverbear (@Hoverbear)
+- HuXn-WebDev (@HuXn-WebDev)
