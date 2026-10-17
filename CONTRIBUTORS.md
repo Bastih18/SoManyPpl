@@ -4145,3 +4145,4 @@
 - mobizt (@mobizt)
 - modelcontextprotocol (@modelcontextprotocol)
 - modelscope (@modelscope)
+- moe-berri (@moe-berri)
