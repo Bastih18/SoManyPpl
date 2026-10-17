@@ -4094,3 +4094,4 @@
 - mimnix (@mimnix)
 - mindbomber (@mindbomber)
 - mindis (@mindis)
+- minetest (@minetest)
