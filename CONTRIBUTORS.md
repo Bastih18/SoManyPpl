@@ -5139,3 +5139,4 @@
 - simplesteph (@simplesteph)
 - simran-arora (@simran-arora)
 - sincof (@sincof)
+- sindresorhus (@sindresorhus)
