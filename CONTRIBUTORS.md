@@ -5438,3 +5438,4 @@
 - timtuxworth (@timtuxworth)
 - tin-berri (@tin-berri)
 - tinker495 (@tinker495)
+- tintin1343 (@tintin1343)
