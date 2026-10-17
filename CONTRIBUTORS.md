@@ -3319,3 +3319,4 @@
 - jeresig (@jeresig)
 - jeromy0307 (@jeromy0307)
 - jerrick-zhu (@jerrick-zhu)
+- jerryjj (@jerryjj)
