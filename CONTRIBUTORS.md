@@ -4839,3 +4839,4 @@
 - rodrigobranas (@rodrigobranas)
 - rodrigodh (@rodrigodh)
 - rogeonee (@rogeonee)
+- rogeriochaves (@rogeriochaves)
