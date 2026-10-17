@@ -2511,3 +2511,4 @@
 - dougyau (@dougyau)
 - douxc (@douxc)
 - dpacmen (@dpacmen)
+- dperini (@dperini)
