@@ -4782,3 +4782,4 @@
 - ricardocacco (@ricardocacco)
 - ricdevz (@ricdevz)
 - richardsonjf (@richardsonjf)
+- richhickey (@richhickey)
