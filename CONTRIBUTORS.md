@@ -2777,3 +2777,4 @@
 - fredcamaral (@fredcamaral)
 - fredericogommes (@fredericogommes)
 - fredericseiler (@fredericseiler)
+- frederikb (@frederikb)
