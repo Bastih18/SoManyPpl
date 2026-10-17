@@ -5044,3 +5044,4 @@
 - sengeiou (@sengeiou)
 - seniorvuejsdeveloper (@seniorvuejsdeveloper)
 - seoseo-ai (@seoseo-ai)
+- serejaris (@serejaris)
