@@ -3306,3 +3306,4 @@
 - jeffheaton (@jeffheaton)
 - jeffmhopkins (@jeffmhopkins)
 - jeffposnick (@jeffposnick)
+- jefftriplett (@jefftriplett)
