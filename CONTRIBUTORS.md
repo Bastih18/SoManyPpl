@@ -436,3 +436,4 @@
 - EurekaLabsAI (@EurekaLabsAI)
 - Euro-Office (@Euro-Office)
 - EvanBacon (@EvanBacon)
+- EvanDotPro (@EvanDotPro)
