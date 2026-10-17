@@ -246,3 +246,4 @@
 - CLARKBENHAM (@CLARKBENHAM)
 - CLAassistant (@CLAassistant)
 - CLFutureX (@CLFutureX)
+- CNMan (@CNMan)
