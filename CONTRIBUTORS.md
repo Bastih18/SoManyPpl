@@ -5619,3 +5619,4 @@
 - viblo-majority (@viblo-majority)
 - vicasas (@vicasas)
 - vickenty (@vickenty)
+- vickey-kapoor (@vickey-kapoor)
