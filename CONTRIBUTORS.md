@@ -5739,3 +5739,4 @@
 - wolph (@wolph)
 - wonderfulShrineMaidenOfParadise (@wonderfulShrineMaidenOfParadise)
 - wongkatrina28 (@wongkatrina28)
+- worldcoin (@worldcoin)
