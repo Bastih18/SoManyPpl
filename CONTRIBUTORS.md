@@ -2750,3 +2750,4 @@
 - flexi767 (@flexi767)
 - flipperdevices (@flipperdevices)
 - flippmoke (@flippmoke)
+- floaledm (@floaledm)
