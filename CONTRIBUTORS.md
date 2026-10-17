@@ -2506,3 +2506,4 @@
 - dorianhagar506-coder (@dorianhagar506-coder)
 - dorireuv (@dorireuv)
 - dotnet (@dotnet)
+- douglascrockford (@douglascrockford)
