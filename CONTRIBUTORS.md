@@ -4194,3 +4194,4 @@
 - mrafayaleem (@mrafayaleem)
 - mrdbourke (@mrdbourke)
 - mrdoob (@mrdoob)
+- mridang (@mridang)
