@@ -2776,3 +2776,4 @@
 - frappe (@frappe)
 - fredcamaral (@fredcamaral)
 - fredericogommes (@fredericogommes)
+- fredericseiler (@fredericseiler)
