@@ -200,3 +200,4 @@
 - BilgisayarKavramlari (@BilgisayarKavramlari)
 - BillyOutlast (@BillyOutlast)
 - BinSquare (@BinSquare)
+- BiocondaBot (@BiocondaBot)
