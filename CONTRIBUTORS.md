@@ -5384,3 +5384,4 @@
 - terminalstate (@terminalstate)
 - termux (@termux)
 - terrizoaguimor (@terrizoaguimor)
+- teslamotors (@teslamotors)
