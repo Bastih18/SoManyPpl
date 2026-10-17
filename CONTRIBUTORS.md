@@ -1629,3 +1629,4 @@
 - alireza-saadat (@alireza-saadat)
 - alisasanib (@alisasanib)
 - alitaheri (@alitaheri)
+- all-hands-bot (@all-hands-bot)
