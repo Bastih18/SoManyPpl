@@ -5042,3 +5042,4 @@
 - selrond (@selrond)
 - sempr (@sempr)
 - sengeiou (@sengeiou)
+- seniorvuejsdeveloper (@seniorvuejsdeveloper)
