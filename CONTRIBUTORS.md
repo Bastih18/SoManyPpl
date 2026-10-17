@@ -3983,3 +3983,4 @@
 - mavericksea-ai (@mavericksea-ai)
 - maverikou (@maverikou)
 - max-krasnyansky (@max-krasnyansky)
+- max-mapper (@max-mapper)
