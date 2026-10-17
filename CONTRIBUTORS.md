@@ -535,3 +535,4 @@
 - Guust-Franssens (@Guust-Franssens)
 - GziXnine (@GziXnine)
 - H0oxy (@H0oxy)
+- H1rono (@H1rono)
