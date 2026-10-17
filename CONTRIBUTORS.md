@@ -2421,3 +2421,4 @@
 - dennybritz (@dennybritz)
 - denoland (@denoland)
 - denschiro (@denschiro)
+- depuits (@depuits)
