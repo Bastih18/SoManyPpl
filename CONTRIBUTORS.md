@@ -1114,3 +1114,4 @@
 - RubyLouvre (@RubyLouvre)
 - Rud5G (@Rud5G)
 - RudolphObe (@RudolphObe)
+- RuffaloLavoisier (@RuffaloLavoisier)
