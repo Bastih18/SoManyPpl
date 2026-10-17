@@ -3144,3 +3144,4 @@
 - icankeep (@icankeep)
 - iccowan (@iccowan)
 - iced-rs (@iced-rs)
+- ichinaski (@ichinaski)
