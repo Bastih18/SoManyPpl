@@ -740,3 +740,4 @@
 - LVD-AC (@LVD-AC)
 - LalithaRamanaV (@LalithaRamanaV)
 - LaplaceYoung (@LaplaceYoung)
+- LaravelDaily (@LaravelDaily)
