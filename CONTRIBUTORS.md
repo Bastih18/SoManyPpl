@@ -5271,3 +5271,4 @@
 - stronglifythemes (@stronglifythemes)
 - stscoundrel (@stscoundrel)
 - stuartellis (@stuartellis)
+- stuartpb (@stuartpb)
