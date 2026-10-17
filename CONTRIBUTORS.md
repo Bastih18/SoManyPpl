@@ -2885,3 +2885,4 @@
 - gnodet (@gnodet)
 - godotengine (@godotengine)
 - gokceneraslan (@gokceneraslan)
+- golang (@golang)
