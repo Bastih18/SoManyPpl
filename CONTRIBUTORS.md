@@ -4144,3 +4144,4 @@
 - mobinna-12e (@mobinna-12e)
 - mobizt (@mobizt)
 - modelcontextprotocol (@modelcontextprotocol)
+- modelscope (@modelscope)
