@@ -2461,3 +2461,4 @@
 - dieharders (@dieharders)
 - diffwireauto (@diffwireauto)
 - digital-joe-co (@digital-joe-co)
+- digitalarche (@digitalarche)
