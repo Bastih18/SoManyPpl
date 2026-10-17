@@ -3249,3 +3249,4 @@
 - jakearchibald (@jakearchibald)
 - jakelandis (@jakelandis)
 - jakevdp (@jakevdp)
+- jalehman (@jalehman)
