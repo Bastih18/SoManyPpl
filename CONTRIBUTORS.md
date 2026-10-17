@@ -1251,3 +1251,4 @@
 - Tanveerahamed-Dev (@Tanveerahamed-Dev)
 - TaranjeetSinghKalsi (@TaranjeetSinghKalsi)
 - TareqK (@TareqK)
+- Tarrasch (@Tarrasch)
