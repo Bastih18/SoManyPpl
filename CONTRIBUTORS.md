@@ -3006,3 +3006,4 @@
 - hasherezade (@hasherezade)
 - hashicorp (@hashicorp)
 - hasinhayder (@hasinhayder)
+- hastadhana (@hastadhana)
