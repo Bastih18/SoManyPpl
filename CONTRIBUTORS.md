@@ -1945,3 +1945,4 @@
 - blacktear23 (@blacktear23)
 - blender (@blender)
 - bleskes (@bleskes)
+- blickly (@blickly)
