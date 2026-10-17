@@ -3835,3 +3835,4 @@
 - lucianodiisouza (@lucianodiisouza)
 - lucidrains (@lucidrains)
 - luciobaiocchi (@luciobaiocchi)
+- luigidellaquila (@luigidellaquila)
