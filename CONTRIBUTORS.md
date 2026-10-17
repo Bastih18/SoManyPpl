@@ -227,3 +227,4 @@
 - BrendanEich (@BrendanEich)
 - Bricks-Man (@Bricks-Man)
 - BrightMakerFoyer (@BrightMakerFoyer)
+- BrilliantAdam (@BrilliantAdam)
