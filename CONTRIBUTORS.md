@@ -5609,3 +5609,4 @@
 - veloxy (@veloxy)
 - vemikhaylov (@vemikhaylov)
 - vera-rubin (@vera-rubin)
+- vercel (@vercel)
