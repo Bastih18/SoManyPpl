@@ -3098,3 +3098,4 @@
 - hugenshen (@hugenshen)
 - huggingface (@huggingface)
 - hugonun (@hugonun)
+- huifer (@huifer)
