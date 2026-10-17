@@ -4073,3 +4073,4 @@
 - michelligabriele (@michelligabriele)
 - microg (@microg)
 - microsoft (@microsoft)
+- microsoftopensource (@microsoftopensource)
