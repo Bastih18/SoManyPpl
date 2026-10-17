@@ -1605,3 +1605,4 @@
 - alexborro (@alexborro)
 - alexeagle (@alexeagle)
 - alexeygrigorev (@alexeygrigorev)
+- alexfauquette (@alexfauquette)
