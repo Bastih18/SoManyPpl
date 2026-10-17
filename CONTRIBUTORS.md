@@ -5347,3 +5347,4 @@
 - taronaeo (@taronaeo)
 - tarotgamerz (@tarotgamerz)
 - tatsuy (@tatsuy)
+- tavisrudd (@tavisrudd)
