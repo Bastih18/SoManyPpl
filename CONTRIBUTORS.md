@@ -2169,3 +2169,4 @@
 - clementmihailescu (@clementmihailescu)
 - clemrdh (@clemrdh)
 - clexpert (@clexpert)
+- clintongormley (@clintongormley)
