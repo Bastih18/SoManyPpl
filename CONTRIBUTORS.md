@@ -2956,3 +2956,4 @@
 - haakon-e (@haakon-e)
 - hackedteam (@hackedteam)
 - hackingthemarkets (@hackingthemarkets)
+- hacs (@hacs)
