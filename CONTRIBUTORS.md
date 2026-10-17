@@ -3456,3 +3456,4 @@
 - jsynowiec (@jsynowiec)
 - jtangelder (@jtangelder)
 - jthorare (@jthorare)
+- jtibshirani (@jtibshirani)
