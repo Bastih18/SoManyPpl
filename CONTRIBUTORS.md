@@ -1754,3 +1754,4 @@
 - arbll (@arbll)
 - arcanis (@arcanis)
 - arch-w2 (@arch-w2)
+- archlinux (@archlinux)
