@@ -2705,3 +2705,4 @@
 - fawazahmed0 (@fawazahmed0)
 - fazt (@fazt)
 - fcccode (@fcccode)
+- fchollet (@fchollet)
