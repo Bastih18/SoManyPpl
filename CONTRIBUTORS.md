@@ -1242,3 +1242,4 @@
 - THUDM (@THUDM)
 - TIMELESSROT (@TIMELESSROT)
 - Tabbygray (@Tabbygray)
+- Takeno-hito (@Takeno-hito)
