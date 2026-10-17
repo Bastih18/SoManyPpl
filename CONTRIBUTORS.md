@@ -2295,3 +2295,4 @@
 - daddycocoaman (@daddycocoaman)
 - dadoonet (@dadoonet)
 - daffodildakota (@daffodildakota)
+- dai-shi (@dai-shi)
