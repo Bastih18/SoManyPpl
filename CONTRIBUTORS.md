@@ -3004,3 +3004,4 @@
 - haru1e18 (@haru1e18)
 - hasanayan (@hasanayan)
 - hasherezade (@hasherezade)
+- hashicorp (@hashicorp)
