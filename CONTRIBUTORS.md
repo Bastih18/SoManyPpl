@@ -1911,3 +1911,4 @@
 - bergie (@bergie)
 - bernardobelchior (@bernardobelchior)
 - bernardowd (@bernardowd)
+- berri-teddy (@berri-teddy)
