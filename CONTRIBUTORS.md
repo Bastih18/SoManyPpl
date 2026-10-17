@@ -1290,3 +1290,4 @@
 - Tim-Brooks (@Tim-Brooks)
 - Tim9Liu9 (@Tim9Liu9)
 - Timer (@Timer)
+- TimoSalomaki (@TimoSalomaki)
