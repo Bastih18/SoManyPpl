@@ -1079,3 +1079,4 @@
 - ReVanced (@ReVanced)
 - ReadmeCritic (@ReadmeCritic)
 - Reifircax (@Reifircax)
+- Rey092 (@Rey092)
