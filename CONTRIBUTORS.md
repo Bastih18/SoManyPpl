@@ -2419,3 +2419,4 @@
 - dennisangemi (@dennisangemi)
 - dennisivy (@dennisivy)
 - dennybritz (@dennybritz)
+- denoland (@denoland)
