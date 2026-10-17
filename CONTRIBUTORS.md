@@ -1076,3 +1076,4 @@
 - Rainhunter13 (@Rainhunter13)
 - RaiyanMahin (@RaiyanMahin)
 - Rajatkhatri7 (@Rajatkhatri7)
+- ReVanced (@ReVanced)
