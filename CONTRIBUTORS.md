@@ -876,3 +876,4 @@
 - MisterBooo (@MisterBooo)
 - MoaidHathot (@MoaidHathot)
 - ModelTC (@ModelTC)
+- Modos-Labs (@Modos-Labs)
