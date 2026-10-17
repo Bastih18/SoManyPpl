@@ -4060,3 +4060,4 @@
 - mhered (@mhered)
 - mhevery (@mhevery)
 - mholt (@mholt)
+- mic-rigaud (@mic-rigaud)
