@@ -4465,3 +4465,4 @@
 - openjevai (@openjevai)
 - openperf (@openperf)
 - opeyemifamosipe (@opeyemifamosipe)
+- oracle (@oracle)
