@@ -4756,3 +4756,4 @@
 - rekicabdo-bihac (@rekicabdo-bihac)
 - remcohaszing (@remcohaszing)
 - remeh (@remeh)
+- remi-or (@remi-or)
