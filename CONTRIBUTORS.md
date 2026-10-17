@@ -1974,3 +1974,4 @@
 - bootIeg (@bootIeg)
 - borgified (@borgified)
 - boring89 (@boring89)
+- bosch-copilot (@bosch-copilot)
