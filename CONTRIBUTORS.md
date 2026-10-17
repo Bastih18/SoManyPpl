@@ -2316,3 +2316,4 @@
 - danhermann (@danhermann)
 - daniandtheweb (@daniandtheweb)
 - daniel-llach (@daniel-llach)
+- daniel-meismer-zocdoc (@daniel-meismer-zocdoc)
