@@ -2663,3 +2663,4 @@
 - evanw (@evanw)
 - evanyudis (@evanyudis)
 - ever-null (@ever-null)
+- evereq (@evereq)
