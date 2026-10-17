@@ -3146,3 +3146,4 @@
 - iced-rs (@iced-rs)
 - ichinaski (@ichinaski)
 - icodening (@icodening)
+- iconfont-cn (@iconfont-cn)
