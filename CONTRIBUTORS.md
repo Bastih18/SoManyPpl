@@ -5513,3 +5513,4 @@
 - trinhminhtriet (@trinhminhtriet)
 - tripleabuilderbot (@tripleabuilderbot)
 - tristan-spear (@tristan-spear)
+- trongnguyenbinh (@trongnguyenbinh)
