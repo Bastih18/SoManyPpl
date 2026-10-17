@@ -247,3 +247,4 @@
 - CLAassistant (@CLAassistant)
 - CLFutureX (@CLFutureX)
 - CNMan (@CNMan)
+- CONSULitAS (@CONSULitAS)
