@@ -5170,3 +5170,4 @@
 - slievrly (@slievrly)
 - slowbro (@slowbro)
 - smalyshev (@smalyshev)
+- smaznet (@smaznet)
