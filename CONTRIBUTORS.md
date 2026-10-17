@@ -633,3 +633,4 @@
 - James-4u (@James-4u)
 - JamesSnaps (@JamesSnaps)
 - JamieMason (@JamieMason)
+- JamieSlome (@JamieSlome)
