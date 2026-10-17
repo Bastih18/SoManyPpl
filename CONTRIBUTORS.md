@@ -1167,3 +1167,4 @@
 - SergioChan (@SergioChan)
 - Serhiy-K (@Serhiy-K)
 - ServeurpersoCom (@ServeurpersoCom)
+- SeshatCZ (@SeshatCZ)
