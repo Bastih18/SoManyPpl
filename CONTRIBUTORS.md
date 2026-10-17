@@ -3438,3 +3438,4 @@
 - jpmoya (@jpmoya)
 - jpodivin (@jpodivin)
 - jpountz (@jpountz)
+- jpshackelford (@jpshackelford)
