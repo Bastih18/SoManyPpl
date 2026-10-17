@@ -2428,3 +2428,4 @@
 - dericcain (@dericcain)
 - desandro (@desandro)
 - descipher (@descipher)
+- desktop (@desktop)
