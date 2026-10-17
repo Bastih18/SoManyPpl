@@ -4961,3 +4961,4 @@
 - samcoren (@samcoren)
 - samjakinngg-del (@samjakinngg-del)
 - samoturk (@samoturk)
+- samuelb (@samuelb)
