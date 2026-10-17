@@ -5081,3 +5081,4 @@
 - sharkdp (@sharkdp)
 - sharmas1ddharth (@sharmas1ddharth)
 - sharpcodex (@sharpcodex)
+- shaun0927 (@shaun0927)
