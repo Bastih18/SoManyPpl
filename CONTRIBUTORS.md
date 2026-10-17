@@ -3268,3 +3268,4 @@
 - jart (@jart)
 - jarviliam (@jarviliam)
 - jashkenas (@jashkenas)
+- jasineri (@jasineri)
