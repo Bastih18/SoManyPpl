@@ -1354,3 +1354,4 @@
 - VictorSanh (@VictorSanh)
 - VictorTaelin (@VictorTaelin)
 - Victrid (@Victrid)
+- ViniViniAntunes (@ViniViniAntunes)
