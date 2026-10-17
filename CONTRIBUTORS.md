@@ -2775,3 +2775,4 @@
 - franklingu (@franklingu)
 - frappe (@frappe)
 - fredcamaral (@fredcamaral)
+- fredericogommes (@fredericogommes)
