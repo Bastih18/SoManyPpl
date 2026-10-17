@@ -859,3 +859,4 @@
 - Michoko92 (@Michoko92)
 - Microindole (@Microindole)
 - Microsoft-corp (@Microsoft-corp)
+- MicrosoftCopilot (@MicrosoftCopilot)
