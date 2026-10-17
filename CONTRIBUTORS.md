@@ -5800,3 +5800,4 @@
 - xzvtps (@xzvtps)
 - yaapu (@yaapu)
 - yagiz-dev (@yagiz-dev)
+- yakult-green-tea (@yakult-green-tea)
