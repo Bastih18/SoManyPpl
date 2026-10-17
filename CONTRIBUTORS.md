@@ -577,3 +577,4 @@
 - HuXn-WebDev (@HuXn-WebDev)
 - HugoSpy (@HugoSpy)
 - Huibean (@Huibean)
+- HunterNyan (@HunterNyan)
