@@ -5266,3 +5266,4 @@
 - stonelion (@stonelion)
 - stormzhang (@stormzhang)
 - storytold (@storytold)
+- strava (@strava)
