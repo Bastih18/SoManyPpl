@@ -956,3 +956,4 @@
 - NobleMajo (@NobleMajo)
 - NoobTW (@NoobTW)
 - NourEldin-Osama (@NourEldin-Osama)
+- NousResearch (@NousResearch)
