@@ -4437,3 +4437,4 @@
 - olgpvlv (@olgpvlv)
 - olivielpeau (@olivielpeau)
 - oliviertassinari (@oliviertassinari)
+- ollama (@ollama)
