@@ -5837,3 +5837,4 @@
 - yhsunshining (@yhsunshining)
 - yifanlu (@yifanlu)
 - yihong0618 (@yihong0618)
+- yihui (@yihui)
