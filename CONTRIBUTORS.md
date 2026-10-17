@@ -3087,3 +3087,4 @@
 - hrach (@hrach)
 - hrx01-dev (@hrx01-dev)
 - hrydgard (@hrydgard)
+- hsdfat (@hsdfat)
