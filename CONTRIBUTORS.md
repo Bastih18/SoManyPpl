@@ -5186,3 +5186,4 @@
 - soheilhosseini-jobbot (@soheilhosseini-jobbot)
 - sokra (@sokra)
 - solana-labs (@solana-labs)
+- solarbadgerhove6952 (@solarbadgerhove6952)
