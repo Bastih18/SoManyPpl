@@ -2393,3 +2393,4 @@
 - dceddia (@dceddia)
 - dcochrans (@dcochrans)
 - dcomartin (@dcomartin)
+- dd-gplassard (@dd-gplassard)
