@@ -4478,3 +4478,4 @@
 - osolmaz (@osolmaz)
 - ossu (@ossu)
 - otakustay (@otakustay)
+- otaviossousa (@otaviossousa)
