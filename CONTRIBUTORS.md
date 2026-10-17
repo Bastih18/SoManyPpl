@@ -3881,3 +3881,4 @@
 - madhur-tandon (@madhur-tandon)
 - madisvain (@madisvain)
 - mafetx (@mafetx)
+- mafintosh (@mafintosh)
