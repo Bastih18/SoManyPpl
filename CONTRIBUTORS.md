@@ -3337,3 +3337,4 @@
 - jgranick (@jgranick)
 - jgthms (@jgthms)
 - jhaddix (@jhaddix)
+- jhcloos (@jhcloos)
