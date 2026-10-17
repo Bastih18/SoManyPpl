@@ -235,3 +235,4 @@
 - Bubu (@Bubu)
 - BuggerBag (@BuggerBag)
 - BunsDev (@BunsDev)
+- BurningCN (@BurningCN)
