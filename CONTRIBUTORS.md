@@ -1643,3 +1643,4 @@
 - alrs (@alrs)
 - altaywtf (@altaywtf)
 - altstoreio (@altstoreio)
+- alura-cursos (@alura-cursos)
