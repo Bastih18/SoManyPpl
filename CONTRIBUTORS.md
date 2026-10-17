@@ -1249,3 +1249,4 @@
 - Tanmay-Singh3004 (@Tanmay-Singh3004)
 - Tannoo (@Tannoo)
 - Tanveerahamed-Dev (@Tanveerahamed-Dev)
+- TaranjeetSinghKalsi (@TaranjeetSinghKalsi)
