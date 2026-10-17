@@ -758,3 +758,4 @@
 - LinShunKang (@LinShunKang)
 - LineageOS (@LineageOS)
 - LingDong- (@LingDong-)
+- LinkedInLearning (@LinkedInLearning)
