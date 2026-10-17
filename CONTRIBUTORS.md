@@ -5014,3 +5014,4 @@
 - scikit-learn (@scikit-learn)
 - scoootscooob (@scoootscooob)
 - scop (@scop)
+- scotmcc (@scotmcc)
