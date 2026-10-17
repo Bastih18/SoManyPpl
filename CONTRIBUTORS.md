@@ -3295,3 +3295,4 @@
 - jcrocholl (@jcrocholl)
 - jcupitt (@jcupitt)
 - jdah (@jdah)
+- jdavis (@jdavis)
