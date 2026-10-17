@@ -2929,3 +2929,4 @@
 - guarin (@guarin)
 - guchenhe (@guchenhe)
 - guilhermeonrails (@guilhermeonrails)
+- guillaumearnx (@guillaumearnx)
