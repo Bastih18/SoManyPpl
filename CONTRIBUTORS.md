@@ -1925,3 +1925,4 @@
 - bihanviranga (@bihanviranga)
 - bilankohim-svg (@bilankohim-svg)
 - bilashcse (@bilashcse)
+- bin-maker (@bin-maker)
