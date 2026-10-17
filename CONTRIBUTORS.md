@@ -2536,3 +2536,4 @@
 - dtolnay (@dtolnay)
 - dufferzafar (@dufferzafar)
 - dunglas (@dunglas)
+- duonghoward (@duonghoward)
