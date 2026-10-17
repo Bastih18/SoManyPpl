@@ -2242,3 +2242,4 @@
 - costin (@costin)
 - cova-fe (@cova-fe)
 - cp-20 (@cp-20)
+- cpcloud (@cpcloud)
