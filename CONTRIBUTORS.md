@@ -4319,3 +4319,4 @@
 - newhinton (@newhinton)
 - newoga (@newoga)
 - nextcloud (@nextcloud)
+- nextcloud-bot (@nextcloud-bot)
