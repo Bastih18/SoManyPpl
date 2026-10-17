@@ -1180,3 +1180,4 @@
 - Shondoit (@Shondoit)
 - Shopify (@Shopify)
 - ShotaHikokubo (@ShotaHikokubo)
+- ShousenZHANG (@ShousenZHANG)
