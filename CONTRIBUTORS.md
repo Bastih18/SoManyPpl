@@ -2979,3 +2979,4 @@
 - hamidohgaming-dotcom (@hamidohgaming-dotcom)
 - hamiltop (@hamiltop)
 - hanakim3945 (@hanakim3945)
+- hanfried (@hanfried)
