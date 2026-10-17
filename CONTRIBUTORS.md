@@ -1367,3 +1367,4 @@
 - Wackerbarth (@Wackerbarth)
 - Wangmerlyn (@Wangmerlyn)
 - Warfront1 (@Warfront1)
+- Wauplin (@Wauplin)
