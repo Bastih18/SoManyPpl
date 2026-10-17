@@ -475,3 +475,4 @@
 - Freed-Wu (@Freed-Wu)
 - FreekMencke (@FreekMencke)
 - FreiLoris (@FreiLoris)
+- FrictionalGames (@FrictionalGames)
