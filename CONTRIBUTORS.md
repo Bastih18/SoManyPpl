@@ -2967,3 +2967,4 @@
 - hajakanaan7-cloud (@hajakanaan7-cloud)
 - hak5darren (@hak5darren)
 - hakaari (@hakaari)
+- hakimel (@hakimel)
