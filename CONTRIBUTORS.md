@@ -694,3 +694,4 @@
 - KaimingHe (@KaimingHe)
 - KalleHallden (@KalleHallden)
 - KamToHung (@KamToHung)
+- KaminskiDaniell (@KaminskiDaniell)
