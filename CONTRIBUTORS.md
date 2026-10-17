@@ -96,3 +96,4 @@
 - AlexTheAnalyst (@AlexTheAnalyst)
 - AlexTr (@AlexTr)
 - AlexandreYang (@AlexandreYang)
+- AlexsanderHamir (@AlexsanderHamir)
