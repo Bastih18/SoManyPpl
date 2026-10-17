@@ -4336,3 +4336,4 @@
 - nickserv (@nickserv)
 - nicktindall (@nicktindall)
 - nickuraltsev (@nickuraltsev)
+- nickvergessen (@nickvergessen)
