@@ -5645,3 +5645,4 @@
 - vldmrdev (@vldmrdev)
 - vmakhaev (@vmakhaev)
 - vmayoral (@vmayoral)
+- vnguyen-lexipol (@vnguyen-lexipol)
