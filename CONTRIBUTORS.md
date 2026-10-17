@@ -1756,3 +1756,4 @@
 - arch-w2 (@arch-w2)
 - archlinux (@archlinux)
 - ardalis (@ardalis)
+- arduino (@arduino)
