@@ -3452,3 +3452,4 @@
 - json2dir-guru (@json2dir-guru)
 - jsoref (@jsoref)
 - jstnhuang (@jstnhuang)
+- jsvine (@jsvine)
