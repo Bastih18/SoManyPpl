@@ -2073,3 +2073,4 @@
 - catboxanon (@catboxanon)
 - catppuccin (@catppuccin)
 - caub (@caub)
+- caugner (@caugner)
