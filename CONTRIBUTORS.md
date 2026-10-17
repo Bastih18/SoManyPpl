@@ -2297,3 +2297,4 @@
 - daffodildakota (@daffodildakota)
 - dai-shi (@dai-shi)
 - daid (@daid)
+- daimajia (@daimajia)
