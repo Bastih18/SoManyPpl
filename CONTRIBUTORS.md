@@ -347,3 +347,4 @@
 - DaveCTurner (@DaveCTurner)
 - DavidCai1111 (@DavidCai1111)
 - DavidMetcalfe (@DavidMetcalfe)
+- DavideGuo8194 (@DavideGuo8194)
