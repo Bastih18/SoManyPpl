@@ -404,3 +404,4 @@
 - EbookFoundation (@EbookFoundation)
 - EchoMusicApp (@EchoMusicApp)
 - Echocipher (@Echocipher)
+- EddieHubCommunity (@EddieHubCommunity)
