@@ -3453,3 +3453,4 @@
 - jsoref (@jsoref)
 - jstnhuang (@jstnhuang)
 - jsvine (@jsvine)
+- jsynowiec (@jsynowiec)
