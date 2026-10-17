@@ -343,3 +343,4 @@
 - Dashsoap (@Dashsoap)
 - DataBranner (@DataBranner)
 - DataLores (@DataLores)
+- DataTalksClub (@DataTalksClub)
