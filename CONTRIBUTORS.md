@@ -3685,3 +3685,4 @@
 - laodc (@laodc)
 - laozhoubuluo (@laozhoubuluo)
 - lapshin-vitaly (@lapshin-vitaly)
+- laravel (@laravel)
