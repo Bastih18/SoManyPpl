@@ -5925,3 +5925,4 @@
 - zrlw (@zrlw)
 - zsteeby (@zsteeby)
 - zuazo (@zuazo)
+- zucchini-nlp (@zucchini-nlp)
