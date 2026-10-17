@@ -2557,3 +2557,4 @@
 - eddierichter-amd (@eddierichter-amd)
 - edenfunf (@edenfunf)
 - edfenergy (@edfenergy)
+- edinhodiluviano (@edinhodiluviano)
