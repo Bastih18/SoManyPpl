@@ -605,3 +605,4 @@
 - InDance2018 (@InDance2018)
 - IngRobertFodor (@IngRobertFodor)
 - Inlei (@Inlei)
+- InsanityAutomation (@InsanityAutomation)
