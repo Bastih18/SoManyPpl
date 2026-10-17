@@ -5020,3 +5020,4 @@
 - scrapertweeter3-prog (@scrapertweeter3-prog)
 - scribblecrumb (@scribblecrumb)
 - scroll-tech (@scroll-tech)
+- scrutinizer-auto-fixer (@scrutinizer-auto-fixer)
