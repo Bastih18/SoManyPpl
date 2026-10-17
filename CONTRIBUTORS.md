@@ -2508,3 +2508,4 @@
 - dotnet (@dotnet)
 - douglascrockford (@douglascrockford)
 - dougweibel (@dougweibel)
+- dougyau (@dougyau)
