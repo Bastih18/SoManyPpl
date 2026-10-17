@@ -3586,3 +3586,4 @@
 - kike-alt (@kike-alt)
 - killercup (@killercup)
 - kimchy (@kimchy)
+- kiminotes (@kiminotes)
