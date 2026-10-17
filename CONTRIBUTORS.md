@@ -2931,3 +2931,4 @@
 - guilhermeonrails (@guilhermeonrails)
 - guillaumearnx (@guillaumearnx)
 - guillaumelauzier (@guillaumelauzier)
+- guimoreirar (@guimoreirar)
