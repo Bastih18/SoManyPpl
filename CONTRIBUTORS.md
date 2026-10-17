@@ -1570,3 +1570,4 @@
 - akimon658 (@akimon658)
 - akitaonrails (@akitaonrails)
 - akitora4869-cmd (@akitora4869-cmd)
+- aklofas (@aklofas)
