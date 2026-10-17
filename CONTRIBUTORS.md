@@ -3649,3 +3649,4 @@
 - kubohiroya (@kubohiroya)
 - kubowania (@kubowania)
 - kubusguafa05 (@kubusguafa05)
+- kud360 (@kud360)
