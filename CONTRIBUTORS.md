@@ -3405,3 +3405,4 @@
 - joschan21 (@joschan21)
 - jose-manuel-almaza (@jose-manuel-almaza)
 - josebarbalho25-lang (@josebarbalho25-lang)
+- josejairobaltazargallegos29-a11y (@josejairobaltazargallegos29-a11y)
