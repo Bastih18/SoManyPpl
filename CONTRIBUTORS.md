@@ -1058,3 +1058,4 @@
 - Quick104 (@Quick104)
 - Qusavin (@Qusavin)
 - QwenLM (@QwenLM)
+- R-Lefebvre (@R-Lefebvre)
