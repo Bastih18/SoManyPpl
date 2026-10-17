@@ -3324,3 +3324,4 @@
 - jessebot (@jessebot)
 - jesseduffield (@jesseduffield)
 - jessfraz (@jessfraz)
+- jesus-berri (@jesus-berri)
