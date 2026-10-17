@@ -4529,3 +4529,4 @@
 - patrickvonplaten (@patrickvonplaten)
 - patrykryczko (@patrykryczko)
 - patrys (@patrys)
+- paul-gauthier (@paul-gauthier)
