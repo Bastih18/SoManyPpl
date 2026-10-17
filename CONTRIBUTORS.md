@@ -953,3 +953,4 @@
 - Njinx (@Njinx)
 - Nnachevvv (@Nnachevvv)
 - NoCrypt (@NoCrypt)
+- NobleMajo (@NobleMajo)
