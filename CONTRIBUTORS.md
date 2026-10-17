@@ -2342,3 +2342,4 @@
 - dark-shadowblade (@dark-shadowblade)
 - darkain (@darkain)
 - darthjee (@darthjee)
+- darwinamaroeustaquio-bot (@darwinamaroeustaquio-bot)
