@@ -5210,3 +5210,4 @@
 - spaspa (@spaspa)
 - spboyer (@spboyer)
 - specklesystems (@specklesystems)
+- spekulatius (@spekulatius)
