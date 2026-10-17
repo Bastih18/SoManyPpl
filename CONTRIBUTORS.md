@@ -3145,3 +3145,4 @@
 - iccowan (@iccowan)
 - iced-rs (@iced-rs)
 - ichinaski (@ichinaski)
+- icodening (@icodening)
