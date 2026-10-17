@@ -1086,3 +1086,4 @@
 - Rich-Harris (@Rich-Harris)
 - RikkiGibson (@RikkiGibson)
 - Ritad51 (@Ritad51)
+- Ritik2604 (@Ritik2604)
