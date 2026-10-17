@@ -1838,3 +1838,4 @@
 - awesomekling (@awesomekling)
 - awoyesuku (@awoyesuku)
 - aws (@aws)
+- aws-aemilia-bom (@aws-aemilia-bom)
