@@ -2577,3 +2577,4 @@
 - elasticsearchmachine (@elasticsearchmachine)
 - eldar702 (@eldar702)
 - elder-plinius (@elder-plinius)
+- electronicarts (@electronicarts)
