@@ -288,3 +288,4 @@
 - Citrine-q (@Citrine-q)
 - ClanEver (@ClanEver)
 - ClaraTersi (@ClaraTersi)
+- ClashSAN (@ClashSAN)
