@@ -1607,3 +1607,4 @@
 - alexeygrigorev (@alexeygrigorev)
 - alexfauquette (@alexfauquette)
 - alexgarrettsmith (@alexgarrettsmith)
+- alexharri (@alexharri)
