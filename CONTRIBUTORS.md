@@ -4663,3 +4663,4 @@
 - pyaillet (@pyaillet)
 - python (@python)
 - pytorch (@pytorch)
+- qgallouedec (@qgallouedec)
