@@ -2782,3 +2782,4 @@
 - freeCodeCamp (@freeCodeCamp)
 - freemanzMrojo (@freemanzMrojo)
 - freshy969 (@freshy969)
+- frigus02 (@frigus02)
