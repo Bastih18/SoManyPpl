@@ -3584,3 +3584,4 @@
 - kijai (@kijai)
 - kikashy (@kikashy)
 - kike-alt (@kike-alt)
+- killercup (@killercup)
