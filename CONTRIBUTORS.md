@@ -477,3 +477,4 @@
 - FreiLoris (@FreiLoris)
 - FrictionalGames (@FrictionalGames)
 - FuelLabs (@FuelLabs)
+- Fuelet (@Fuelet)
