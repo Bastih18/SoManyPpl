@@ -315,3 +315,4 @@
 - CookieHCl (@CookieHCl)
 - CooperSheroy (@CooperSheroy)
 - Copilot (@Copilot)
+- CoreyMSchafer (@CoreyMSchafer)
