@@ -3724,3 +3724,4 @@
 - leovargasdev (@leovargasdev)
 - lepture (@lepture)
 - lerian-studio (@lerian-studio)
+- lerignoux (@lerignoux)
