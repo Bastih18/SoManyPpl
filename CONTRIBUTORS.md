@@ -2594,3 +2594,4 @@
 - elye (@elye)
 - elyxdev (@elyxdev)
 - emanaton (@emanaton)
+- emerzon (@emerzon)
