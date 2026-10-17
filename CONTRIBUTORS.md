@@ -2197,3 +2197,4 @@
 - codepr (@codepr)
 - coderwhy (@coderwhy)
 - codescientists (@codescientists)
+- codewars (@codewars)
