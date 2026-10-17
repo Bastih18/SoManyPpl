@@ -1313,3 +1313,4 @@
 - TruNcat3 (@TruNcat3)
 - TrueAbc (@TrueAbc)
 - TrueCodeBeauty (@TrueCodeBeauty)
+- Trufi (@Trufi)
