@@ -2058,3 +2058,4 @@
 - capacitor-community (@capacitor-community)
 - captin411 (@captin411)
 - carlhoerberg (@carlhoerberg)
+- carlos-aranda (@carlos-aranda)
