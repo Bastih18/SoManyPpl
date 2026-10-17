@@ -293,3 +293,4 @@
 - ClaudioTessaro (@ClaudioTessaro)
 - CleanCut (@CleanCut)
 - CleverProgrammer (@CleverProgrammer)
+- ClimateMatchAcademy (@ClimateMatchAcademy)
