@@ -1528,3 +1528,4 @@
 - afurm (@afurm)
 - agamrafaeli (@agamrafaeli)
 - agentscope-ai-java (@agentscope-ai-java)
+- agentverse-os (@agentverse-os)
