@@ -290,3 +290,4 @@
 - ClaraTersi (@ClaraTersi)
 - ClashSAN (@ClashSAN)
 - ClassicOldSong (@ClassicOldSong)
+- ClaudioTessaro (@ClaudioTessaro)
