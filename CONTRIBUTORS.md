@@ -5218,3 +5218,4 @@
 - sposs (@sposs)
 - spring-projects (@spring-projects)
 - springframeworkguru (@springframeworkguru)
+- spuyet (@spuyet)
