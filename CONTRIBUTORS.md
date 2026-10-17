@@ -2324,3 +2324,4 @@
 - danielcynerio (@danielcynerio)
 - danielflira (@danielflira)
 - danieljl (@danieljl)
+- danielkrupinski (@danielkrupinski)
