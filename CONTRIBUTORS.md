@@ -2797,3 +2797,4 @@
 - fundletr (@fundletr)
 - funguf (@funguf)
 - funky-eyes (@funky-eyes)
+- funkywaddle (@funkywaddle)
