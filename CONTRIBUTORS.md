@@ -784,3 +784,4 @@
 - LukeSmithxyz (@LukeSmithxyz)
 - Lukejyhuang (@Lukejyhuang)
 - Lulzx (@Lulzx)
+- Lumiere-MULAGWA (@Lumiere-MULAGWA)
