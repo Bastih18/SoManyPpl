@@ -2558,3 +2558,4 @@
 - edenfunf (@edenfunf)
 - edfenergy (@edfenergy)
 - edinhodiluviano (@edinhodiluviano)
+- editorialyagum (@editorialyagum)
