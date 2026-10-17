@@ -2928,3 +2928,4 @@
 - guaneec (@guaneec)
 - guarin (@guarin)
 - guchenhe (@guchenhe)
+- guilhermeonrails (@guilhermeonrails)
