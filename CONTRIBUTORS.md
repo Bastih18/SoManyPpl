@@ -4872,3 +4872,4 @@
 - rroblf01 (@rroblf01)
 - rrousselGit (@rrousselGit)
 - rs-choices (@rs-choices)
+- rsalmei (@rsalmei)
