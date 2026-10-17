@@ -582,3 +582,4 @@
 - Huxpro (@Huxpro)
 - Hwurzburg (@Hwurzburg)
 - HyaCiovo (@HyaCiovo)
+- I-frenzy (@I-frenzy)
