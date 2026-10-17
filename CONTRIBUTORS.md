@@ -484,3 +484,4 @@
 - GAumala (@GAumala)
 - GH05T-HUNTER5 (@GH05T-HUNTER5)
 - GHGiampy (@GHGiampy)
+- GMagician (@GMagician)
