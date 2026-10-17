@@ -4110,3 +4110,4 @@
 - mitchellh (@mitchellh)
 - mitchellkrogza (@mitchellkrogza)
 - mitchtabian (@mitchtabian)
+- mitsuhiko (@mitsuhiko)
