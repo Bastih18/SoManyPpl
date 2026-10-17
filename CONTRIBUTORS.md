@@ -1718,3 +1718,4 @@
 - antfu (@antfu)
 - anthdm (@anthdm)
 - anthonygauthier (@anthonygauthier)
+- anthonyonazure (@anthonyonazure)
