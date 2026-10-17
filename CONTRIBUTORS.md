@@ -3316,3 +3316,4 @@
 - jeppekroghitk (@jeppekroghitk)
 - jerebear12 (@jerebear12)
 - jeremy-hanna (@jeremy-hanna)
+- jeresig (@jeresig)
