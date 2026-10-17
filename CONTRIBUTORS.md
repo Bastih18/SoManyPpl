@@ -2547,3 +2547,4 @@
 - e6qu (@e6qu)
 - eanplatter (@eanplatter)
 - earthtojake (@earthtojake)
+- easychen (@easychen)
