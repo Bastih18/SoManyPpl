@@ -729,3 +729,4 @@
 - Kron00 (@Kron00)
 - Krzysztonek (@Krzysztonek)
 - KubeDev (@KubeDev)
+- Kuludu (@Kuludu)
