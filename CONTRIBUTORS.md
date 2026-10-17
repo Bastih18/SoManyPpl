@@ -3834,3 +3834,4 @@
 - lucasvieira2902 (@lucasvieira2902)
 - lucianodiisouza (@lucianodiisouza)
 - lucidrains (@lucidrains)
+- luciobaiocchi (@luciobaiocchi)
