@@ -4417,3 +4417,4 @@
 - oOthkOo (@oOthkOo)
 - oasis-open (@oasis-open)
 - obra (@obra)
+- obsidianmd (@obsidianmd)
