@@ -2413,3 +2413,4 @@
 - defunkt (@defunkt)
 - deinspanjer (@deinspanjer)
 - dekrypted (@dekrypted)
+- delikely (@delikely)
