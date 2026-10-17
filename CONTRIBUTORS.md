@@ -2785,3 +2785,4 @@
 - frigus02 (@frigus02)
 - friuns2 (@friuns2)
 - frontend-joe (@frontend-joe)
+- frontendbr (@frontendbr)
