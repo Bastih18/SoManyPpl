@@ -5926,3 +5926,4 @@
 - zsteeby (@zsteeby)
 - zuazo (@zuazo)
 - zucchini-nlp (@zucchini-nlp)
+- zuzuviewer (@zuzuviewer)
