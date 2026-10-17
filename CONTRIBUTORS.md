@@ -2713,3 +2713,4 @@
 - felangel (@felangel)
 - feliciahrln04 (@feliciahrln04)
 - felicityblueish (@felicityblueish)
+- felipeAguiarCode (@felipeAguiarCode)
