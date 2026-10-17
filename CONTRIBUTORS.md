@@ -2222,3 +2222,4 @@
 - commit10 (@commit10)
 - commonsguy (@commonsguy)
 - community (@community)
+- compilade (@compilade)
