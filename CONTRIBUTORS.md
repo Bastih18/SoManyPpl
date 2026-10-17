@@ -45,3 +45,4 @@
 - 4yx (@4yx)
 - 521xueweihan (@521xueweihan)
 - 53l3cu5 (@53l3cu5)
+- 5aimatsu (@5aimatsu)
