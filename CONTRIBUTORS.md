@@ -3448,3 +3448,4 @@
 - jsimomaa (@jsimomaa)
 - jsiu93 (@jsiu93)
 - jskeet (@jskeet)
+- json-schema-org (@json-schema-org)
