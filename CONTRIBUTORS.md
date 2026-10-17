@@ -2529,3 +2529,4 @@
 - drobison00 (@drobison00)
 - droomo (@droomo)
 - drsebastianmaldonado (@drsebastianmaldonado)
+- dsacademybr (@dsacademybr)
