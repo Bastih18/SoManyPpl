@@ -613,3 +613,4 @@
 - IthacaDream (@IthacaDream)
 - ItzYanick (@ItzYanick)
 - Iwabuchi-Akira (@Iwabuchi-Akira)
+- JAndreuSoler (@JAndreuSoler)
