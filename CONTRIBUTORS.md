@@ -3547,3 +3547,4 @@
 - kenjinote (@kenjinote)
 - kennethreitz (@kennethreitz)
 - kennykerr (@kennykerr)
+- kentcdodds (@kentcdodds)
