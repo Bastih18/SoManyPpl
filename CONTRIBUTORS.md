@@ -4835,3 +4835,4 @@
 - rodenacker (@rodenacker)
 - rodgzilla (@rodgzilla)
 - rodjek (@rodjek)
+- rodrigo-medeiros (@rodrigo-medeiros)
