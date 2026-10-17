@@ -4370,3 +4370,4 @@
 - nmhdyar (@nmhdyar)
 - nnarhinen (@nnarhinen)
 - nnseenain (@nnseenain)
+- no-stack-dub-sack (@no-stack-dub-sack)
