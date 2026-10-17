@@ -2734,3 +2734,4 @@
 - feross (@feross)
 - ferr3ira-gabriel (@ferr3ira-gabriel)
 - ferrohd (@ferrohd)
+- fflorent (@fflorent)
