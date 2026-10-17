@@ -3809,3 +3809,4 @@
 - loiane (@loiane)
 - lokinmodar (@lokinmodar)
 - lonelyhty (@lonelyhty)
+- loopdev-io (@loopdev-io)
