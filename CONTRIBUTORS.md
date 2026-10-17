@@ -2832,3 +2832,4 @@
 - geeksville (@geeksville)
 - geektime-geekbang (@geektime-geekbang)
 - geekysrm (@geekysrm)
+- geerlingguy (@geerlingguy)
