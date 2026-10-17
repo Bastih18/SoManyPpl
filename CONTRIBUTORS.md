@@ -1425,3 +1425,4 @@
 - YuHima03 (@YuHima03)
 - YukariChiba (@YukariChiba)
 - YuliaNuzhnenko (@YuliaNuzhnenko)
+- Yumasi (@Yumasi)
