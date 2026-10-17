@@ -4459,3 +4459,4 @@
 - open-telemetry (@open-telemetry)
 - openai (@openai)
 - openclaw (@openclaw)
+- openenergymonitor (@openenergymonitor)
