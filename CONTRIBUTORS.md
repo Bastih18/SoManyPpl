@@ -5268,3 +5268,4 @@
 - storytold (@storytold)
 - strava (@strava)
 - streamlit (@streamlit)
+- stronglifythemes (@stronglifythemes)
