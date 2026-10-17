@@ -4842,3 +4842,4 @@
 - rogeriochaves (@rogeriochaves)
 - rogerjdeangelis (@rogerjdeangelis)
 - roggy3387-beep (@roggy3387-beep)
+- rohanprichard (@rohanprichard)
