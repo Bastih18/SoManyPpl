@@ -3524,3 +3524,4 @@
 - karlwaldman (@karlwaldman)
 - karmi (@karmi)
 - karoliina (@karoliina)
+- karpathy (@karpathy)
