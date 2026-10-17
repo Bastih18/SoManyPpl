@@ -2180,3 +2180,4 @@
 - cmlsharp (@cmlsharp)
 - cn-zane (@cn-zane)
 - cncf (@cncf)
+- cndrip (@cndrip)
