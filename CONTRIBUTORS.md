@@ -2273,3 +2273,4 @@
 - cumsoft (@cumsoft)
 - curiousbanana585 (@curiousbanana585)
 - curita (@curita)
+- cursoemvideo (@cursoemvideo)
