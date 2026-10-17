@@ -3666,3 +3666,4 @@
 - kyledrake (@kyledrake)
 - kylixs (@kylixs)
 - kyosu-1 (@kyosu-1)
+- l10nbot (@l10nbot)
