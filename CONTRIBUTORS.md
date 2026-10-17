@@ -625,3 +625,4 @@
 - Jack-Cherish (@Jack-Cherish)
 - JacksonGL (@JacksonGL)
 - JacksonTian (@JacksonTian)
+- JaffaKetchup (@JaffaKetchup)
