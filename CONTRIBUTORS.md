@@ -1008,3 +1008,4 @@
 - PaddlePaddle (@PaddlePaddle)
 - Palacios-89 (@Palacios-89)
 - PanJiaChen (@PanJiaChen)
+- ParityError (@ParityError)
