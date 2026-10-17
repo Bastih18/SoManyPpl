@@ -1272,3 +1272,4 @@
 - TheAlgorithms (@TheAlgorithms)
 - TheBestFlyingPig (@TheBestFlyingPig)
 - TheBilltrain (@TheBilltrain)
+- TheCherno (@TheCherno)
