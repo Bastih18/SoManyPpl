@@ -2889,3 +2889,4 @@
 - golbin (@golbin)
 - golfpip (@golfpip)
 - golift-bot (@golift-bot)
+- gonztirado (@gonztirado)
