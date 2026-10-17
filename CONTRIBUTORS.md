@@ -3410,3 +3410,4 @@
 - josephcrowell (@josephcrowell)
 - joserodolfofreitas (@joserodolfofreitas)
 - josevalim (@josevalim)
+- josh-egan (@josh-egan)
