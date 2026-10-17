@@ -2595,3 +2595,4 @@
 - elyxdev (@elyxdev)
 - emanaton (@emanaton)
 - emerzon (@emerzon)
+- emilecastelnuovo (@emilecastelnuovo)
