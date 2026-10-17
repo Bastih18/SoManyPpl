@@ -355,3 +355,4 @@
 - Delvar (@Delvar)
 - DengSchoo (@DengSchoo)
 - DenisCarriere (@DenisCarriere)
+- DenisKoleda (@DenisKoleda)
