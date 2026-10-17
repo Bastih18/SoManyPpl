@@ -5608,3 +5608,4 @@
 - veetaw (@veetaw)
 - veloxy (@veloxy)
 - vemikhaylov (@vemikhaylov)
+- vera-rubin (@vera-rubin)
