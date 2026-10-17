@@ -952,3 +952,4 @@
 - NixOS (@NixOS)
 - Njinx (@Njinx)
 - Nnachevvv (@Nnachevvv)
+- NoCrypt (@NoCrypt)
