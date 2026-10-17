@@ -2463,3 +2463,4 @@
 - digital-joe-co (@digital-joe-co)
 - digitalarche (@digitalarche)
 - digitalinnovationone (@digitalinnovationone)
+- dimgrichr (@dimgrichr)
