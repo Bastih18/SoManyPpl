@@ -5382,3 +5382,4 @@
 - teppeis (@teppeis)
 - terencelaurent (@terencelaurent)
 - terminalstate (@terminalstate)
+- termux (@termux)
