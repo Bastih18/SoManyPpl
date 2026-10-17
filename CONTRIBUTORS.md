@@ -916,3 +916,4 @@
 - NShahri (@NShahri)
 - NVIDIA (@NVIDIA)
 - NVlabs (@NVlabs)
+- Nagarei (@Nagarei)
