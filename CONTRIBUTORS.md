@@ -3275,3 +3275,4 @@
 - jasonjhofmann (@jasonjhofmann)
 - jasonsaayman (@jasonsaayman)
 - jasontaylordev (@jasontaylordev)
+- jasontedor (@jasontedor)
