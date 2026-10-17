@@ -2135,3 +2135,4 @@
 - chpego (@chpego)
 - chrisbanes (@chrisbanes)
 - chriscavalluzzi (@chriscavalluzzi)
+- chrischaps (@chrischaps)
