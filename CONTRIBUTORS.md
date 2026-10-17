@@ -305,3 +305,4 @@
 - CoderMJLee (@CoderMJLee)
 - CodeupClassroom (@CodeupClassroom)
 - CodingOnStar (@CodingOnStar)
+- CodingSinger (@CodingSinger)
