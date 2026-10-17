@@ -2784,3 +2784,4 @@
 - freshy969 (@freshy969)
 - frigus02 (@frigus02)
 - friuns2 (@friuns2)
+- frontend-joe (@frontend-joe)
