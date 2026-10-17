@@ -2434,3 +2434,4 @@
 - devantler (@devantler)
 - devareddy05 (@devareddy05)
 - developedbyed (@developedbyed)
+- developit (@developit)
