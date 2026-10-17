@@ -717,3 +717,4 @@
 - KinomotoMio (@KinomotoMio)
 - KipK (@KipK)
 - Kirubapanneers (@Kirubapanneers)
+- Klace (@Klace)
