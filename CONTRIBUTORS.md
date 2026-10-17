@@ -2284,3 +2284,4 @@
 - cwohlman (@cwohlman)
 - cxbAsDev (@cxbAsDev)
 - cyanharlow (@cyanharlow)
+- cyntaxinc (@cyntaxinc)
