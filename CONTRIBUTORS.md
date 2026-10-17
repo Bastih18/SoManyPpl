@@ -1376,3 +1376,4 @@
 - Werberus (@Werberus)
 - Wesley-Chen-CN (@Wesley-Chen-CN)
 - West-ridge751832 (@West-ridge751832)
+- WickedShell (@WickedShell)
