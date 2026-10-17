@@ -2749,3 +2749,4 @@
 - flaviendelangle (@flaviendelangle)
 - flexi767 (@flexi767)
 - flipperdevices (@flipperdevices)
+- flippmoke (@flippmoke)
