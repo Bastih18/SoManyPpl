@@ -337,3 +337,4 @@
 - DanBrima (@DanBrima)
 - DanEnglishby (@DanEnglishby)
 - DanailH (@DanailH)
+- DannyDaemonic (@DannyDaemonic)
