@@ -2411,3 +2411,4 @@
 - deftomat (@deftomat)
 - defunes43 (@defunes43)
 - defunkt (@defunkt)
+- deinspanjer (@deinspanjer)
