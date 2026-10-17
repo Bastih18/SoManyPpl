@@ -827,3 +827,4 @@
 - Marvinthebored (@Marvinthebored)
 - Marzieh-codes (@Marzieh-codes)
 - Massi-X (@Massi-X)
+- Masterstrap (@Masterstrap)
