@@ -280,3 +280,4 @@
 - ChinmayKaitade (@ChinmayKaitade)
 - Chino456 (@Chino456)
 - Chiyo-no-sake (@Chiyo-no-sake)
+- ChrisHegarty (@ChrisHegarty)
