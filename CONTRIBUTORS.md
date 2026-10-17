@@ -3186,3 +3186,4 @@
 - inspiraling (@inspiraling)
 - intagliated (@intagliated)
 - intel-innersource (@intel-innersource)
+- intel-restricted (@intel-restricted)
