@@ -5870,3 +5870,4 @@
 - yumnycheesecakes (@yumnycheesecakes)
 - yunaremaia (@yunaremaia)
 - yuri-rage (@yuri-rage)
+- yuroyoro (@yuroyoro)
