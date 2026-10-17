@@ -3716,3 +3716,4 @@
 - leerob (@leerob)
 - lefred (@lefred)
 - leftkats (@leftkats)
+- lemire (@lemire)
