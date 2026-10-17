@@ -1839,3 +1839,4 @@
 - awoyesuku (@awoyesuku)
 - aws (@aws)
 - aws-aemilia-bom (@aws-aemilia-bom)
+- aws-aemilia-cdg (@aws-aemilia-cdg)
