@@ -1347,3 +1347,4 @@
 - VasylSamoilov (@VasylSamoilov)
 - VecsMaster (@VecsMaster)
 - VenelinMartinov (@VenelinMartinov)
+- VeneratedApotheosis (@VeneratedApotheosis)
