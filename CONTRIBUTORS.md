@@ -300,3 +300,4 @@
 - Code-Bullet (@Code-Bullet)
 - CodeHatchling (@CodeHatchling)
 - CodeMySky (@CodeMySky)
+- CodeRusher (@CodeRusher)
