@@ -5788,3 +5788,4 @@
 - xlucas (@xlucas)
 - xmodar (@xmodar)
 - xmrflipflop (@xmrflipflop)
+- xnekv03 (@xnekv03)
