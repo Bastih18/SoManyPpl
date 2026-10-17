@@ -2334,3 +2334,4 @@
 - daniloleyalves (@daniloleyalves)
 - danlaudk (@danlaudk)
 - dannyjung90 (@dannyjung90)
+- danog (@danog)
