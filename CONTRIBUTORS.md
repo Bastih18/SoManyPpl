@@ -4770,3 +4770,4 @@
 - resemble-ai (@resemble-ai)
 - reula (@reula)
 - rewbs (@rewbs)
+- rexim (@rexim)
