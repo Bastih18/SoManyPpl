@@ -150,3 +150,4 @@
 - AryanGupta-234 (@AryanGupta-234)
 - AryanJ-NYC (@AryanJ-NYC)
 - Asabeneh (@Asabeneh)
+- AsahiLinux (@AsahiLinux)
