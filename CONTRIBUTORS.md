@@ -1700,3 +1700,4 @@
 - angelabauer (@angelabauer)
 - angelikaVB (@angelikaVB)
 - angt (@angt)
+- angular (@angular)
