@@ -2205,3 +2205,4 @@
 - codomposer (@codomposer)
 - codygibb (@codygibb)
 - codysk (@codysk)
+- coffeecloudgit (@coffeecloudgit)
