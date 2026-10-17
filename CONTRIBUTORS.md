@@ -5542,3 +5542,4 @@
 - tyler6204 (@tyler6204)
 - tylertreat (@tylertreat)
 - typesafe-docs (@typesafe-docs)
+- typicode (@typicode)
