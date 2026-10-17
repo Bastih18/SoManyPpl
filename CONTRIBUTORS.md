@@ -4316,3 +4316,4 @@
 - netzenbot (@netzenbot)
 - neubig (@neubig)
 - neumark (@neumark)
+- newhinton (@newhinton)
