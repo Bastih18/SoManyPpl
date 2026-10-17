@@ -1307,3 +1307,4 @@
 - TooTallNate (@TooTallNate)
 - TradingView-Library (@TradingView-Library)
 - Trickness (@Trickness)
+- Trinea (@Trinea)
