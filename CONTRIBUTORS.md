@@ -5306,3 +5306,4 @@
 - swisskyrepo (@swisskyrepo)
 - switer (@switer)
 - swve (@swve)
+- swyxio (@swyxio)
