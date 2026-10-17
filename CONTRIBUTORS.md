@@ -2648,3 +2648,4 @@
 - esphbot (@esphbot)
 - espressif (@espressif)
 - esrrahafase-crypto (@esrrahafase-crypto)
+- estromenko (@estromenko)
