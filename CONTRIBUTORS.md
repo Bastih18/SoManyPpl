@@ -3070,3 +3070,4 @@
 - hoclun-rigsep (@hoclun-rigsep)
 - hoganlong (@hoganlong)
 - holman (@holman)
+- home-assistant (@home-assistant)
