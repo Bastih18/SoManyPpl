@@ -3103,3 +3103,4 @@
 - humitos (@humitos)
 - hunt0r (@hunt0r)
 - huntharo (@huntharo)
+- hush-hush (@hush-hush)
