@@ -2137,3 +2137,4 @@
 - chriscavalluzzi (@chriscavalluzzi)
 - chrischaps (@chrischaps)
 - chriscoyier (@chriscoyier)
+- chrislusf (@chrislusf)
