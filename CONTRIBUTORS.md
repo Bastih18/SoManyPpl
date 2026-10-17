@@ -2166,3 +2166,4 @@
 - clayw (@clayw)
 - cldbot (@cldbot)
 - cleemesser (@cleemesser)
+- clementmihailescu (@clementmihailescu)
