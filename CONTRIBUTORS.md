@@ -735,3 +735,4 @@
 - L3n41c (@L3n41c)
 - L4XB (@L4XB)
 - LETS-BEE (@LETS-BEE)
+- LIT-Protocol (@LIT-Protocol)
