@@ -5378,3 +5378,4 @@
 - tenderlove (@tenderlove)
 - tensorflow (@tensorflow)
 - tensornull (@tensornull)
+- tentaka335 (@tentaka335)
