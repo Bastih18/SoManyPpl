@@ -2896,3 +2896,4 @@
 - googlarz (@googlarz)
 - google (@google)
 - google-deepmind (@google-deepmind)
+- google-gemini (@google-gemini)
