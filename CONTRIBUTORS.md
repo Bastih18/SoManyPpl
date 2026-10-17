@@ -1250,3 +1250,4 @@
 - Tannoo (@Tannoo)
 - Tanveerahamed-Dev (@Tanveerahamed-Dev)
 - TaranjeetSinghKalsi (@TaranjeetSinghKalsi)
+- TareqK (@TareqK)
