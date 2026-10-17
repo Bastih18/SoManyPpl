@@ -1417,3 +1417,4 @@
 - Yigtwxx (@Yigtwxx)
 - YoanWai (@YoanWai)
 - YoannGh (@YoannGh)
+- Yohaneshernandes (@Yohaneshernandes)
