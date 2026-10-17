@@ -4792,3 +4792,4 @@
 - rikyroky91-commits (@rikyroky91-commits)
 - rillomas (@rillomas)
 - rimi-itk (@rimi-itk)
+- rintaro (@rintaro)
