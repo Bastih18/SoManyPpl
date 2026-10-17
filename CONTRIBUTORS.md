@@ -3980,3 +3980,4 @@
 - mauj771-cyber (@mauj771-cyber)
 - maulanaaghnii (@maulanaaghnii)
 - maurogp12 (@maurogp12)
+- mavericksea-ai (@mavericksea-ai)
