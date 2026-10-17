@@ -2292,3 +2292,4 @@
 - d8ahazard (@d8ahazard)
 - dabit3 (@dabit3)
 - dacodas (@dacodas)
+- daddycocoaman (@daddycocoaman)
