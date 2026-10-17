@@ -4107,3 +4107,4 @@
 - missionfloyd (@missionfloyd)
 - misteriaud (@misteriaud)
 - mistralai (@mistralai)
+- mitchellh (@mitchellh)
