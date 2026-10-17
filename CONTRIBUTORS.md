@@ -2714,3 +2714,4 @@
 - feliciahrln04 (@feliciahrln04)
 - felicityblueish (@felicityblueish)
 - felipeAguiarCode (@felipeAguiarCode)
+- felipefialho (@felipefialho)
