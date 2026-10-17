@@ -5064,3 +5064,4 @@
 - shadcn-ui (@shadcn-ui)
 - shadow578 (@shadow578)
 - shadowsocks (@shadowsocks)
+- shafdev (@shafdev)
