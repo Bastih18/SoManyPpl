@@ -2718,3 +2718,4 @@
 - felipenmoura (@felipenmoura)
 - felipetruman (@felipetruman)
 - felipewmartins (@felipewmartins)
+- felixbarny (@felixbarny)
