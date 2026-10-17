@@ -2406,3 +2406,4 @@
 - decipherIO (@decipherIO)
 - deepanshi073 (@deepanshi073)
 - deepanshululla (@deepanshululla)
+- deepseek-ai (@deepseek-ai)
