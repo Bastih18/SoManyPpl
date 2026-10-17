@@ -2495,3 +2495,4 @@
 - docker (@docker)
 - dogauzun (@dogauzun)
 - doka-guide (@doka-guide)
+- dolutech (@dolutech)
