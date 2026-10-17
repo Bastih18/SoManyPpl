@@ -4938,3 +4938,4 @@
 - sadikturan (@sadikturan)
 - safak (@safak)
 - safchain (@safchain)
+- safe-portal (@safe-portal)
