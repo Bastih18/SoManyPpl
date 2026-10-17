@@ -1497,3 +1497,4 @@
 - acumenix (@acumenix)
 - ad-m (@ad-m)
 - adamfaliq42 (@adamfaliq42)
+- adamhagglund (@adamhagglund)
