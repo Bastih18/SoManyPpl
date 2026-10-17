@@ -5079,3 +5079,4 @@
 - shaofeiqi (@shaofeiqi)
 - sharifitabar (@sharifitabar)
 - sharkdp (@sharkdp)
+- sharmas1ddharth (@sharmas1ddharth)
