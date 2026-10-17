@@ -4374,3 +4374,4 @@
 - no1agent (@no1agent)
 - noahowsh (@noahowsh)
 - nodejs (@nodejs)
+- noebrito (@noebrito)
