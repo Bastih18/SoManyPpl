@@ -2556,3 +2556,4 @@
 - eddiejaoude (@eddiejaoude)
 - eddierichter-amd (@eddierichter-amd)
 - edenfunf (@edenfunf)
+- edfenergy (@edfenergy)
