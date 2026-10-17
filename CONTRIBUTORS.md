@@ -2930,3 +2930,4 @@
 - guchenhe (@guchenhe)
 - guilhermeonrails (@guilhermeonrails)
 - guillaumearnx (@guillaumearnx)
+- guillaumelauzier (@guillaumelauzier)
