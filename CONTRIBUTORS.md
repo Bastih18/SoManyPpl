@@ -4333,3 +4333,4 @@
 - nicklockwood (@nicklockwood)
 - nicknochnack (@nicknochnack)
 - nicks (@nicks)
+- nickserv (@nickserv)
