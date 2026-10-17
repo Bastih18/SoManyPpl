@@ -2574,3 +2574,4 @@
 - ekhvalov (@ekhvalov)
 - eladmotola (@eladmotola)
 - elanora007 (@elanora007)
+- elasticsearchmachine (@elasticsearchmachine)
