@@ -1261,3 +1261,4 @@
 - TeddyAmkie (@TeddyAmkie)
 - Teetihiuh (@Teetihiuh)
 - Tencent (@Tencent)
+- TensorRaya (@TensorRaya)
