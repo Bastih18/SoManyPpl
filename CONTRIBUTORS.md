@@ -104,3 +104,4 @@
 - Alimojaveri (@Alimojaveri)
 - Alioth4J (@Alioth4J)
 - Alir3z4 (@Alir3z4)
+- Alix-007 (@Alix-007)
