@@ -2778,3 +2778,4 @@
 - fredericogommes (@fredericogommes)
 - fredericseiler (@fredericseiler)
 - frederikb (@frederikb)
+- fredj (@fredj)
