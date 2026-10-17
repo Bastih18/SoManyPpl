@@ -2715,3 +2715,4 @@
 - felicityblueish (@felicityblueish)
 - felipeAguiarCode (@felipeAguiarCode)
 - felipefialho (@felipefialho)
+- felipenmoura (@felipenmoura)
