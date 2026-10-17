@@ -2756,3 +2756,4 @@
 - fluency03 (@fluency03)
 - flutter (@flutter)
 - fluxionlings (@fluxionlings)
+- foldl (@foldl)
