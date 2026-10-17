@@ -1646,3 +1646,4 @@
 - alura-cursos (@alura-cursos)
 - alvierahman90 (@alvierahman90)
 - alxkm (@alxkm)
+- alxpez (@alxpez)
