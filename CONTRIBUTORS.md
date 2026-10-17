@@ -5385,3 +5385,4 @@
 - termux (@termux)
 - terrizoaguimor (@terrizoaguimor)
 - teslamotors (@teslamotors)
+- teteusAraujo (@teteusAraujo)
