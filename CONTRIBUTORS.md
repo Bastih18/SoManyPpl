@@ -1722,3 +1722,4 @@
 - anthonypotero (@anthonypotero)
 - anthropics (@anthropics)
 - antirez (@antirez)
+- anton-l (@anton-l)
