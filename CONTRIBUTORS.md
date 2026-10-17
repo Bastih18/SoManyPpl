@@ -5135,3 +5135,4 @@
 - simonkberg (@simonkberg)
 - simonrosenberg (@simonrosenberg)
 - simonsanvil (@simonsanvil)
+- simonw (@simonw)
