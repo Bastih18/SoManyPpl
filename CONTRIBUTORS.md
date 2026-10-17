@@ -3149,3 +3149,4 @@
 - iconfont-cn (@iconfont-cn)
 - ictxiangxin (@ictxiangxin)
 - idan (@idan)
+- idegtiarenko (@idegtiarenko)
