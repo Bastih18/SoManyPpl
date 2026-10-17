@@ -3264,3 +3264,4 @@
 - janreyHablaMina (@janreyHablaMina)
 - jaredpalmer (@jaredpalmer)
 - jaredwray (@jaredwray)
+- jarscr (@jarscr)
