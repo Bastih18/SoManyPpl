@@ -832,3 +832,4 @@
 - MatrixFrog (@MatrixFrog)
 - MatrixNeoKozak (@MatrixNeoKozak)
 - MattKear (@MattKear)
+- MatthewMerrill (@MatthewMerrill)
