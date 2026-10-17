@@ -1330,3 +1330,4 @@
 - UnaPibaGeek (@UnaPibaGeek)
 - UnconsciousBlaringHuman (@UnconsciousBlaringHuman)
 - UndefinedFons (@UndefinedFons)
+- Uniswap (@Uniswap)
