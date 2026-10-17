@@ -1181,3 +1181,4 @@
 - Shopify (@Shopify)
 - ShotaHikokubo (@ShotaHikokubo)
 - ShousenZHANG (@ShousenZHANG)
+- ShreySatapara (@ShreySatapara)
