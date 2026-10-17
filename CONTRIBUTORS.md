@@ -1890,3 +1890,4 @@
 - bebbi (@bebbi)
 - bedatty (@bedatty)
 - bedatty-bot (@bedatty-bot)
+- bedimcode (@bedimcode)
