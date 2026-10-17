@@ -5065,3 +5065,4 @@
 - shadow578 (@shadow578)
 - shadowsocks (@shadowsocks)
 - shafdev (@shafdev)
+- shaghayegh-brz19 (@shaghayegh-brz19)
