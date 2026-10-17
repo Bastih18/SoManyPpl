@@ -4531,3 +4531,4 @@
 - patrys (@patrys)
 - paul-gauthier (@paul-gauthier)
 - pauldraper (@pauldraper)
+- paulirish (@paulirish)
