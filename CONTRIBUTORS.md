@@ -5171,3 +5171,4 @@
 - slowbro (@slowbro)
 - smalyshev (@smalyshev)
 - smaznet (@smaznet)
+- smichea (@smichea)
