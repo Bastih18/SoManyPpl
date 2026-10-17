@@ -2793,3 +2793,4 @@
 - ftasci (@ftasci)
 - ftrueck (@ftrueck)
 - fujita-h (@fujita-h)
+- fuller-stack-dev (@fuller-stack-dev)
