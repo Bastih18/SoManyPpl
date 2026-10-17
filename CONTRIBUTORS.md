@@ -2298,3 +2298,4 @@
 - dai-shi (@dai-shi)
 - daid (@daid)
 - daimajia (@daimajia)
+- dair-ai (@dair-ai)
