@@ -671,3 +671,4 @@
 - JonasKunz (@JonasKunz)
 - Jongtae (@Jongtae)
 - JordanSchuetz (@JordanSchuetz)
+- JoseDeFreitas (@JoseDeFreitas)
