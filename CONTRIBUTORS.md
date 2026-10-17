@@ -4795,3 +4795,4 @@
 - rintaro (@rintaro)
 - rishabh115 (@rishabh115)
 - rishabsingh3003 (@rishabsingh3003)
+- rishipal (@rishipal)
