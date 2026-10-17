@@ -236,3 +236,4 @@
 - BuggerBag (@BuggerBag)
 - BunsDev (@BunsDev)
 - BurningCN (@BurningCN)
+- BurntSushi (@BurntSushi)
