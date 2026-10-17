@@ -4777,3 +4777,4 @@
 - rgerganov (@rgerganov)
 - rgomids (@rgomids)
 - rhapsodyv (@rhapsodyv)
+- rhiever (@rhiever)
