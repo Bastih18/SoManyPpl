@@ -573,3 +573,4 @@
 - Homebrew (@Homebrew)
 - Horsts478 (@Horsts478)
 - Hosshii (@Hosshii)
+- Hoverbear (@Hoverbear)
