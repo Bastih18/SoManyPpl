@@ -5188,3 +5188,4 @@
 - solana-labs (@solana-labs)
 - solarbadgerhove6952 (@solarbadgerhove6952)
 - soldmomforge-spec (@soldmomforge-spec)
+- solegalli (@solegalli)
