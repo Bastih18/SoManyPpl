@@ -4108,3 +4108,4 @@
 - misteriaud (@misteriaud)
 - mistralai (@mistralai)
 - mitchellh (@mitchellh)
+- mitchellkrogza (@mitchellkrogza)
