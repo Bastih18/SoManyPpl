@@ -3267,3 +3267,4 @@
 - jarscr (@jarscr)
 - jart (@jart)
 - jarviliam (@jarviliam)
+- jashkenas (@jashkenas)
