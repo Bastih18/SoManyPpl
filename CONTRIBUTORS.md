@@ -861,3 +861,4 @@
 - Microsoft-corp (@Microsoft-corp)
 - MicrosoftCopilot (@MicrosoftCopilot)
 - MicrosoftDocs (@MicrosoftDocs)
+- MicrosoftLearning (@MicrosoftLearning)
