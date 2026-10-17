@@ -2471,3 +2471,4 @@
 - diplix (@diplix)
 - dirkarnez (@dirkarnez)
 - discord (@discord)
+- discus0434 (@discus0434)
