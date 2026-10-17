@@ -2933,3 +2933,4 @@
 - guillaumelauzier (@guillaumelauzier)
 - guimoreirar (@guimoreirar)
 - guludo (@guludo)
+- gumadeiras (@gumadeiras)
