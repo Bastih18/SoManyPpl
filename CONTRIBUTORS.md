@@ -2602,3 +2602,4 @@
 - emilyemorehouse (@emilyemorehouse)
 - emmabostian (@emmabostian)
 - emoss-rin (@emoss-rin)
+- emoss08 (@emoss08)
