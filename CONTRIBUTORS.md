@@ -2457,3 +2457,4 @@
 - diderich (@diderich)
 - dieend (@dieend)
 - diego3g (@diego3g)
+- diegokoes (@diegokoes)
