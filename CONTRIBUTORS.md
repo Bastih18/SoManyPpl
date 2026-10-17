@@ -2774,3 +2774,4 @@
 - frankfanslc (@frankfanslc)
 - franklingu (@franklingu)
 - frappe (@frappe)
+- fredcamaral (@fredcamaral)
