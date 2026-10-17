@@ -629,3 +629,4 @@
 - Jah-yee (@Jah-yee)
 - JahsehXL (@JahsehXL)
 - JakeDeppeler (@JakeDeppeler)
+- JakeWharton (@JakeWharton)
