@@ -4917,3 +4917,4 @@
 - rybesh (@rybesh)
 - ryo-ma (@ryo-ma)
 - ryoha000 (@ryoha000)
+- ryzhovau (@ryzhovau)
