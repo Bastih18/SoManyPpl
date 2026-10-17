@@ -1084,3 +1084,4 @@
 - RhinoSecurityLabs (@RhinoSecurityLabs)
 - RianGallagher (@RianGallagher)
 - Rich-Harris (@Rich-Harris)
+- RikkiGibson (@RikkiGibson)
