@@ -4750,3 +4750,4 @@
 - redusys (@redusys)
 - reecursion (@reecursion)
 - reeselevine (@reeselevine)
+- reggi (@reggi)
