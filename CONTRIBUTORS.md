@@ -2561,3 +2561,4 @@
 - editorialyagum (@editorialyagum)
 - eduardconstantin (@eduardconstantin)
 - eduardoarosemena661-hash (@eduardoarosemena661-hash)
+- edugonch (@edugonch)
