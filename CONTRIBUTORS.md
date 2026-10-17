@@ -1488,3 +1488,4 @@
 - academind (@academind)
 - acbin (@acbin)
 - accidentalcannibal (@accidentalcannibal)
+- acdlite (@acdlite)
