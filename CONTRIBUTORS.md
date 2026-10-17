@@ -2358,3 +2358,4 @@
 - davedav3e (@davedav3e)
 - davemachado (@davemachado)
 - daveshap (@daveshap)
+- davetron5000 (@davetron5000)
