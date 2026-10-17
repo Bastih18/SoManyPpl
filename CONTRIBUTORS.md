@@ -1864,3 +1864,4 @@
 - badlogic (@badlogic)
 - badtuxx (@badtuxx)
 - bagder (@bagder)
+- bagnell (@bagnell)
