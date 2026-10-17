@@ -3322,3 +3322,4 @@
 - jerryjj (@jerryjj)
 - jesse-merhi (@jesse-merhi)
 - jessebot (@jessebot)
+- jesseduffield (@jesseduffield)
