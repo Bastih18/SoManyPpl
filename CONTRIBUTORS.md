@@ -527,3 +527,4 @@
 - Grizzly2212 (@Grizzly2212)
 - Guflly (@Guflly)
 - Gugle2308 (@Gugle2308)
+- Gui774ume (@Gui774ume)
