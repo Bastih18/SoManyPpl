@@ -4675,3 +4675,4 @@
 - qqaatw (@qqaatw)
 - quan831 (@quan831)
 - quantova-inc (@quantova-inc)
+- qubvel (@qubvel)
