@@ -5667,3 +5667,4 @@
 - w0rp (@w0rp)
 - w3c (@w3c)
 - w3cj (@w3cj)
+- waldyrious (@waldyrious)
