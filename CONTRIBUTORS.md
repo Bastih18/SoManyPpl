@@ -419,3 +419,4 @@
 - EpicDima (@EpicDima)
 - EpicGames (@EpicGames)
 - EpicHammer (@EpicHammer)
+- Eraxyso (@Eraxyso)
