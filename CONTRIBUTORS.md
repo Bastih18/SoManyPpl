@@ -4248,3 +4248,4 @@
 - mxstbr (@mxstbr)
 - myConsciousness (@myConsciousness)
 - myMartek (@myMartek)
+- myclaudeprojects (@myclaudeprojects)
