@@ -2319,3 +2319,4 @@
 - daniel-meismer-zocdoc (@daniel-meismer-zocdoc)
 - daniel-noland (@daniel-noland)
 - danieladov (@danieladov)
+- danielalanbates (@danielalanbates)
