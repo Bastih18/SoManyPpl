@@ -1617,3 +1617,4 @@
 - alexzherdev (@alexzherdev)
 - alfielambert (@alfielambert)
 - algobytewise (@algobytewise)
+- algorithmzuo (@algorithmzuo)
