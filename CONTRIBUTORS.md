@@ -1355,3 +1355,4 @@
 - VictorTaelin (@VictorTaelin)
 - Victrid (@Victrid)
 - ViniViniAntunes (@ViniViniAntunes)
+- Vinv-AI (@Vinv-AI)
