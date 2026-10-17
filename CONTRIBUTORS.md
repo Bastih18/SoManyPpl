@@ -2477,3 +2477,4 @@
 - dj2313 (@dj2313)
 - django (@django)
 - djdeath (@djdeath)
+- djmitche (@djmitche)
