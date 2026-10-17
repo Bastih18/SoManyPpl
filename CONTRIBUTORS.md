@@ -2760,3 +2760,4 @@
 - folke (@folke)
 - fooolan (@fooolan)
 - fordnox (@fordnox)
+- foregroundUser (@foregroundUser)
