@@ -2673,3 +2673,4 @@
 - exercism (@exercism)
 - existentialism (@existentialism)
 - expedicaoarcos (@expedicaoarcos)
+- expertos-tech (@expertos-tech)
