@@ -5310,3 +5310,4 @@
 - sx4im (@sx4im)
 - sxh313 (@sxh313)
 - sycomix (@sycomix)
+- syoichi (@syoichi)
